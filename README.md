@@ -21,5 +21,5 @@ First review [PIP-1](PIPS/aip-1.md). Then clone the repository and add your PIP 
 # Finalized EIPs (standards that have been adopted)
 | Number                                             | Title                                                                                        | Author                                     | Layer      | Status   |
 | -------------------------------------------------- | -------------------------------------------------------------------------------------------- | -------------------------------------------| ---------- | -------- |
-| [1](EIPS/pip-001.md)                                 | Parsec Improvoment Proposals                                                                  | Johann Barbie                           | Core       | Final    |
-| [2](EIPS/pip-002.md)                                 | Holacracy Constitution                                                                      | Johann Barbie                             | Governance  | Final    |
+| [1](PIPS/pip-001.md)                                 | Parsec Improvoment Proposals                                                                  | Johann Barbie                           | Core       | Final    |
+| [2](PIPS/pip-002.md)                                 | Holacracy Constitution                                                                      | Johann Barbie                             | Governance  | Final    |
