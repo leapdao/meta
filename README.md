@@ -10,16 +10,15 @@ First review [PIP-1](PIPS/pip-001.md). Then clone the repository and add your PI
 * **Final** - an PIP that has been adopted in a previous release.
 * **Deferred** - an PIP that is not being considered for immediate adoption. May be reconsidered in the future for a subsequent release.
 
-
-
 # Non-final PIPs
 | Number                    | Title                                    | Author            | Layer      | Status     |
 | ------------------------- | ---------------------------------------- | ----------------- | ---------- | ---------- |
+| [2](PIPS/pip-002.md)      |  Holacracy Constitution                  | Johann Barbie     | Governance | Draft      |
 | [3](PIPS/pip-003.md)      |  Contribution Bounties                   | Johann Barbie     | Governance | Draft      |
 | [4](PIPS/pip-004.md)      |  Partner Buyback Program                 | Johann Barbie     | Governance | Draft      |
 
 # Finalized PIPs (standards that have been adopted)
 | Number                    | Title                                    | Author            | Layer      | Status     |
 | ------------------------- | ---------------------------------------- | ------------------| ---------- | ---------- |
-| [1](PIPS/pip-001.md)      | Parsec Improvoment Proposals             | Johann Barbie     | Core       | Draft      |
-| [2](PIPS/pip-002.md)      | Holacracy Constitution                   | Johann Barbie     | Governance | Draft      |
+| [1](PIPS/pip-001.md)      |  Parsec Improvoment Proposals            | Johann Barbie     | Core       | Final      |
+
