@@ -1,12 +1,25 @@
-# AIPs 
-Acebusters Improvement Proposals (AIPs) describe standards for the Acebusters platform, including core protocol specifications, client APIs, and contract standards.
+# PIPs 
+Parsec Improvement Proposals (PIPs) describe standards for the Parsec platform, including core protocol specifications, client APIs, and contract standards.
 
 # Contributing
-First review [AIP-1](AIPS/aip-1.md). Then clone the repository and add your AIP to it. There is a [template AIP here](aip-X.md). Then submit a Pull Request to Acebusters' [AIPs repository](https://github.com/acebusters/AIPs).
+First review [PIP-1](PIPS/aip-1.md). Then clone the repository and add your PIP to it. There is a [template PIP here](aip-X.md). Then submit a Pull Request to Parsec' [PIPs repository](https://github.com/acebusters/PIPs).
 
-# AIP status terms
-* **Draft** - an AIP that is open for consideration
-* **Accepted** - an AIP that is planned for immediate adoption, i.e. expected to be included in the next release.
-* **Final** - an AIP that has been adopted in a previous release.
-* **Deferred** - an AIP that is not being considered for immediate adoption. May be reconsidered in the future for a subsequent release.
+# PIP status terms
+* **Draft** - an PIP that is open for consideration
+* **Accepted** - an PIP that is planned for immediate adoption, i.e. expected to be included in the next release.
+* **Final** - an PIP that has been adopted in a previous release.
+* **Deferred** - an PIP that is not being considered for immediate adoption. May be reconsidered in the future for a subsequent release.
 
+
+
+# Non-final EIPs
+| Number                    | Title                                                   | Author                        | Layer     | Status     |
+| ------------------------- | ------------------------------------------------------- | ----------------------------- | --------- | ---------- |
+| [3](PIPS/pip-003.md)    |  Contribution Bounties                                    | Johann Barbie               | Governance  | Draft     |
+| [4](PIPS/pip-004.md)    |  Partner Buyback Program                                  | Johann Barbie               | Governance  | Draft |
+
+# Finalized EIPs (standards that have been adopted)
+| Number                                             | Title                                                                                        | Author                                     | Layer      | Status   |
+| -------------------------------------------------- | -------------------------------------------------------------------------------------------- | -------------------------------------------| ---------- | -------- |
+| [1](EIPS/eip-001.md)                                 | Parsec Improvoment Proposals                                                                  | Johann Barbie                           | Core       | Final    |
+| [2](EIPS/eip-002.md)                                 | Holacracy Constitution                                                                      | Johann Barbie                             | Governance  | Final    |
