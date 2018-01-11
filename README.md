@@ -2,7 +2,7 @@
 Parsec Improvement Proposals (PIPs) describe standards for the Parsec platform, including core protocol specifications, client APIs, and contract standards.
 
 # Contributing
-First review [PIP-1](PIPS/aip-1.md). Then clone the repository and add your PIP to it. There is a [template PIP here](aip-X.md). Then submit a Pull Request to Parsec' [PIPs repository](https://github.com/acebusters/PIPs).
+First review [PIP-1](PIPS/pip-1.md). Then clone the repository and add your PIP to it. There is a [template PIP here](pip-X.md). Then submit a Pull Request to Parsec' [PIPs repository](https://github.com/acebusters/PIPs).
 
 # PIP status terms
 * **Draft** - an PIP that is open for consideration
@@ -12,13 +12,13 @@ First review [PIP-1](PIPS/aip-1.md). Then clone the repository and add your PIP 
 
 
 
-# Non-final EIPs
+# Non-final PIPs
 | Number                    | Title                                                   | Author                        | Layer     | Status     |
 | ------------------------- | ------------------------------------------------------- | ----------------------------- | --------- | ---------- |
 | [3](PIPS/pip-003.md)    |  Contribution Bounties                                    | Johann Barbie               | Governance  | Draft     |
 | [4](PIPS/pip-004.md)    |  Partner Buyback Program                                  | Johann Barbie               | Governance  | Draft |
 
-# Finalized EIPs (standards that have been adopted)
+# Finalized PIPs (standards that have been adopted)
 | Number                                             | Title                                                                                        | Author                                     | Layer      | Status   |
 | -------------------------------------------------- | -------------------------------------------------------------------------------------------- | -------------------------------------------| ---------- | -------- |
 | [1](PIPS/pip-001.md)                                 | Parsec Improvoment Proposals                                                                  | Johann Barbie                           | Core       | Final    |

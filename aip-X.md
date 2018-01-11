@@ -1,6 +1,6 @@
 This is the suggested template for new PIPs.
 
-Note that an PIP number will be assigned by an editor. When opening a pull request to submit your PIP, please use an abbreviated title in the filename, `aip-draft_title_abbrev.md`.
+Note that an PIP number will be assigned by an editor. When opening a pull request to submit your PIP, please use an abbreviated title in the filename, `pip-draft_title_abbrev.md`.
 
 ## Preamble
 
