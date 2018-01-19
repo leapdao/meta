@@ -13,7 +13,6 @@ First review [PIP-1](PIPS/pip-001.md). Then clone the repository and add your PI
 # Non-final PIPs
 | Number                    | Title                                    | Author            | Layer      | Status     |
 | ------------------------- | ---------------------------------------- | ----------------- | ---------- | ---------- |
-| [2](PIPS/pip-002.md)      |  Holacracy Constitution                  | Johann Barbie     | Governance | Draft      |
 | [3](PIPS/pip-003.md)      |  Contribution Bounties                   | Johann Barbie     | Governance | Draft      |
 | [4](PIPS/pip-004.md)      |  Partner Buyback Program                 | Johann Barbie     | Governance | Draft      |
 
@@ -21,4 +20,5 @@ First review [PIP-1](PIPS/pip-001.md). Then clone the repository and add your PI
 | Number                    | Title                                    | Author            | Layer      | Status     |
 | ------------------------- | ---------------------------------------- | ------------------| ---------- | ---------- |
 | [1](PIPS/pip-001.md)      |  Parsec Improvoment Proposals            | Johann Barbie     | Core       | Final      |
+| [2](PIPS/pip-002.md)      |  Holacracy Constitution                  | Johann Barbie     | Governance | Final      |
 
