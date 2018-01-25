@@ -13,8 +13,10 @@ First review [PIP-1](PIPS/pip-001.md). Then clone the repository and add your PI
 # Non-final PIPs
 | Number                    | Title                                    | Author            | Layer      | Status     |
 | ------------------------- | ---------------------------------------- | ----------------- | ---------- | ---------- |
-| [3](PIPS/pip-003.md)      |  Contribution Bounties                   | Johann Barbie     | Governance | Draft      |
+| [3](PIPS/pip-003.md)      |  Basic Income			                   | Victor Metleshka  | Governance | Draft      |
 | [4](PIPS/pip-004.md)      |  Partner Buyback Program                 | Johann Barbie     | Governance | Draft      |
+| [5](PIPS/pip-005.md)      |  Bounty Budgets 			               | Johann Barbie     | Governance | Draft      |
+| [6](PIPS/pip-006.md)      |  Mentorship Program		               | Victor Metleshka  | Governance | Draft      |
 
 # Finalized PIPs (standards that have been adopted)
 | Number                    | Title                                    | Author            | Layer      | Status     |
