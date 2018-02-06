@@ -13,9 +13,6 @@ First review [PIP-1](PIPS/pip-001.md). Then clone the repository and add your PI
 # Non-final PIPs
 | Number                    | Title                                    | Author            | Layer      | Status     |
 | ------------------------- | ---------------------------------------- | ----------------- | ---------- | ---------- |
-| [3](PIPS/pip-003.md)      |  Basic Income			                   | Victor Metleshka  | Governance | Draft      |
-| [4](PIPS/pip-004.md)      |  Partner Buyback Program                 | Johann Barbie     | Governance | Draft      |
-| [5](PIPS/pip-005.md)      |  Bounty Budgets 			               | Johann Barbie     | Governance | Draft      |
 | [6](PIPS/pip-006.md)      |  Mentorship Program		               | Victor Metleshka  | Governance | Draft      |
 
 # Finalized PIPs (standards that have been adopted)
@@ -23,4 +20,7 @@ First review [PIP-1](PIPS/pip-001.md). Then clone the repository and add your PI
 | ------------------------- | ---------------------------------------- | ------------------| ---------- | ---------- |
 | [1](PIPS/pip-001.md)      |  Parsec Improvoment Proposals            | Johann Barbie     | Core       | Final      |
 | [2](PIPS/pip-002.md)      |  Holacracy Constitution                  | Johann Barbie     | Governance | Final      |
+| [3](PIPS/pip-003.md)      |  Basic Income			                   | Victor Metleshka  | Governance | Final      |
+| [4](PIPS/pip-004.md)      |  Partner Buyback Program                 | Johann Barbie     | Governance | Final      |
+| [5](PIPS/pip-005.md)      |  Bounty Budgets 			               | Johann Barbie     | Governance | Final      |
 
