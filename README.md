@@ -14,6 +14,8 @@ First review [PIP-1](PIPS/pip-001.md). Then clone the repository and add your PI
 | Number                    | Title                                    | Author            | Layer      | Status     |
 | ------------------------- | ---------------------------------------- | ----------------- | ---------- | ---------- |
 | [6](PIPS/pip-006.md)      |  Mentorship Program		               | Victor Metleshka  | Governance | Draft      |
+| [7](PIPS/pip-007.md)      |  Feedback Bounty 		               	   | Victor Metleshka  | Governance | Draft      |
+| [8](PIPS/pip-008.md)      |  New Partnerships bounty		           | Victor Metleshka  | Governance | Draft      |
 
 # Finalized PIPs (standards that have been adopted)
 | Number                    | Title                                    | Author            | Layer      | Status     |
