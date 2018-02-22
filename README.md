@@ -13,7 +13,6 @@ First review [PIP-1](PIPS/pip-001.md). Then clone the repository and add your PI
 # Non-final PIPs
 | Number                    | Title                                    | Author            | Layer      | Status     |
 | ------------------------- | ---------------------------------------- | ----------------- | ---------- | ---------- |
-
 | [7](PIPS/pip-007.md)      |  Feedback Bounty 		               	   | Victor Metleshka  | Governance | Deferred      |
 
 # Finalized PIPs (standards that have been adopted)
