@@ -13,7 +13,7 @@ First review [PIP-1](PIPS/pip-001.md). Then clone the repository and add your PI
 # Non-final PIPs
 | Number                    | Title                                    | Author            | Layer      | Status     |
 | ------------------------- | ---------------------------------------- | ----------------- | ---------- | ---------- |
-| [7](PIPS/pip-007.md)      |  Circle Budgets 		               	   | Victor Metleshka  | Governance | Draft      |
+|                           |                		               	   |                   |            |            |
 
 # Finalized PIPs (standards that have been adopted)
 | Number                    | Title                                    | Author            | Layer      | Status     |
@@ -24,4 +24,4 @@ First review [PIP-1](PIPS/pip-001.md). Then clone the repository and add your PI
 | [4](PIPS/pip-004.md)      |  Partner Buyback Program                 | Johann Barbie     | Governance | Final      |
 | [5](PIPS/pip-005.md)      |  Bounty Budgets 			               | Johann Barbie     | Governance | Final      |
 | [6](PIPS/pip-006.md)      |  Mentorship Program		               | Victor Metleshka  | Governance | Final      |
-
+| [7](PIPS/pip-007.md)      |  Circle Budgets 		               	   | Victor Metleshka  | Governance | Final      |
