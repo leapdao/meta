@@ -20,10 +20,10 @@ Note that an PIP number will be assigned by an editor. When opening a pull reque
 A short (~200 word) description of the technical issue being addressed.
 
 ## Motivation
-The motivation is critical for PIPs that want to change the Acebusters protocol. It should clearly explain why the existing protocol specification is inadequate to address the problem that the PIP solves. PIP submissions without sufficient motivation may be rejected outright.
+The motivation is critical for PIPs that want to change the Parsec/Acebusters protocol. It should clearly explain why the existing protocol specification is inadequate to address the problem that the PIP solves. PIP submissions without sufficient motivation may be rejected outright.
 
 ## Specification
-The technical specification should describe the syntax and semantics of any new feature. The specification should be detailed enough to allow implementation. 
+The technical specification should describe the syntax and semantics of any new feature. The specification should be detailed enough to allow implementation.
 
 ## Rationale
 The rationale fleshes out the specification by describing what motivated the design and why particular design decisions were made. It should describe alternate designs that were considered and related work, e.g. how the feature is supported in other languages.
