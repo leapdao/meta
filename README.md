@@ -1,4 +1,4 @@
-# PIPs 
+# PIPs
 Parsec Improvement Proposals (PIPs) describe standards for the Parsec platform, including governance structures, core protocol specifications, client APIs, and contract standards.
 
 # Contributing
@@ -13,7 +13,7 @@ First review [PIP-1](PIPS/pip-001.md). Then clone the repository and add your PI
 # Non-final PIPs
 | Number                    | Title                                    | Author            | Layer      | Status     |
 | ------------------------- | ---------------------------------------- | ----------------- | ---------- | ---------- |
-|                           |                		               	   |                   |            |            |
+| [8](PIPS/pip-008.md)      |  Doshirak mode		               	   | Kosta Korenkov  | Governance | Draft      |
 
 # Finalized PIPs (standards that have been adopted)
 | Number                    | Title                                    | Author            | Layer      | Status     |
