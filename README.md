@@ -26,3 +26,6 @@ First review [PIP-1](PIPS/pip-001.md). Then clone the repository and add your PI
 | [6](PIPS/pip-006.md)      |  Mentorship Program		               | Victor Metleshka  | Governance | Final      |
 | [7](PIPS/pip-007.md)      |  Circle Budgets 		               	   | Victor Metleshka  | Governance | Final      |
 | [8](PIPS/pip-008.md)      |  On-A-Budget (Doshirak) mode       	   | Kosta Korenkov  | Governance | Final      |
+
+## Copyright
+It is a free culture work, licensed under Creative Commons Attribution Share-Alike (CC-BY-SA) version 4.0.
