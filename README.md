@@ -25,7 +25,8 @@ First review [PIP-1](PIPS/pip-001.md). Then clone the repository and add your PI
 | [5](PIPS/pip-005.md)      |  Bounty Budgets 			               | Johann Barbie     | Governance | Final      |
 | [6](PIPS/pip-006.md)      |  Mentorship Program		               | Victor Metleshka  | Governance | Final      |
 | [7](PIPS/pip-007.md)      |  Circle Budgets 		               	   | Victor Metleshka  | Governance | Final      |
-| [8](PIPS/pip-008.md)      |  On-A-Budget (Doshirak) mode       	   | Kosta Korenkov  | Governance | Final      |
+| [8](PIPS/pip-008.md)      |  On-A-Budget (Doshirak) mode       	   | Kosta Korenkov    | Governance | Final      |
+| [9](PIPS/pip-009.md)      |  Hustler PIP       	                   | Rostislav Grubi   | Governance | Final      |
 
 ## Copyright
 It is a free culture work, licensed under Creative Commons Attribution Share-Alike (CC-BY-SA) version 4.0.
