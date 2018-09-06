@@ -25,11 +25,11 @@ First review [PIP-1](PIPS/pip-001.md). Then clone the repository and add your PI
 | [7](PIPS/pip-007.md)      |  Circle Budgets 		               	   | Victor Metleshka  | Governance | Final      |
 
 Deferred/Archive
-| Number                    | Title                                    | Author            | Layer      | Status     |
-| ------------------------- | ---------------------------------------- | ------------------| ---------- | ---------- |
-| [4](PIPS/pip-004.md)      |  Partner Buyback Program                 | Johann Barbie     | Governance | Deferred      |
-| [6](PIPS/pip-006.md)      |  Mentorship Program		               | Victor Metleshka  | Governance | Deferred      |
-| [8](PIPS/pip-008.md)      |  On-A-Budget (Doshirak) mode       	   | Kosta Korenkov  | Governance | Deferred      |
+| Number                    | Title                                    | Author            | Layer      | Status     | Reason |
+| ------------------------- | ---------------------------------------- | ------------------| ---------- | ---------- | ---- |
+| [4](PIPS/pip-004.md)      |  Partner Buyback Program                 | Johann Barbie     | Governance | Deferred      | PIP003 deferred |
+| [6](PIPS/pip-006.md)      |  Mentorship Program		               | Victor Metleshka  | Governance | Deferred      |  PIP003 deferred |
+| [8](PIPS/pip-008.md)      |  On-A-Budget (Doshirak) mode       	   | Kosta Korenkov  | Governance | Deferred      | |
 
 ## Copyright
 It is a free culture work, licensed under Creative Commons Attribution Share-Alike (CC-BY-SA) version 4.0.
