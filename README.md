@@ -21,11 +21,15 @@ First review [PIP-1](PIPS/pip-001.md). Then clone the repository and add your PI
 | [1](PIPS/pip-001.md)      |  Parsec Improvoment Proposals            | Johann Barbie     | Core       | Final      |
 | [2](PIPS/pip-002.md)      |  Holacracy Constitution                  | Johann Barbie     | Governance | Final      |
 | [3](PIPS/pip-003.md)      |  Basic Income			                   | Victor Metleshka  | Governance | Final      |
-| [4](PIPS/pip-004.md)      |  Partner Buyback Program                 | Johann Barbie     | Governance | Final      |
 | [5](PIPS/pip-005.md)      |  Bounty Budgets 			               | Johann Barbie     | Governance | Final      |
-| [6](PIPS/pip-006.md)      |  Mentorship Program		               | Victor Metleshka  | Governance | Final      |
 | [7](PIPS/pip-007.md)      |  Circle Budgets 		               	   | Victor Metleshka  | Governance | Final      |
-| [8](PIPS/pip-008.md)      |  On-A-Budget (Doshirak) mode       	   | Kosta Korenkov  | Governance | Final      |
+
+Deferred/Archive
+| Number                    | Title                                    | Author            | Layer      | Status     |
+| ------------------------- | ---------------------------------------- | ------------------| ---------- | ---------- |
+| [4](PIPS/pip-004.md)      |  Partner Buyback Program                 | Johann Barbie     | Governance | Deferred      |
+| [6](PIPS/pip-006.md)      |  Mentorship Program		               | Victor Metleshka  | Governance | Deferred      |
+| [8](PIPS/pip-008.md)      |  On-A-Budget (Doshirak) mode       	   | Kosta Korenkov  | Governance | Deferred      |
 
 ## Copyright
 It is a free culture work, licensed under Creative Commons Attribution Share-Alike (CC-BY-SA) version 4.0.
