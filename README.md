@@ -23,7 +23,7 @@ First review [PIP-1](PIPS/pip-001.md). Then clone the repository and add your PI
 | [5](PIPS/pip-005.md)      |  Bounty Budgets 			               | Johann Barbie     | Governance | Final      |
 | [7](PIPS/pip-007.md)      |  Circle Budgets 		               	   | Victor Metleshka  | Governance | Final      |
 
-Deferred/Archive
+# Deferred/Archive
 | Number                    | Title                                    | Author            | Layer      | Status     | Reason |
 | ------------------------- | ---------------------------------------- | ------------------| ---------- | ---------- | ---- |
 | [3](PIPS/pip-003.md)      |  Basic Income			                   | Victor Metleshka  | Governance | Deferred      | Deferred by [Governance Proposal](https://github.com/orgs/parsec-labs/teams/parsec-general-circle/discussions/27)
