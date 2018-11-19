@@ -13,7 +13,7 @@
 
 | #  | Title                                    | Circle      | Budget | Status   | Verifier |
 | -- | ---------------------------------------- | ----------- | ----------- | -------- | --- |
-| 13  | [State-enabled scripting conditions for Plasma](https://docs.google.com/document/d/1vStTjqvqZGyiI5AVtpwCIMlHFnzC_4bbixsCfs27-M8) | R&D | 2,000 | Assigned(@johannbarbie)  | @kosta |
+| 13  | [State-enabled scripting conditions for Plasma](https://docs.google.com/document/d/1vStTjqvqZGyiI5AVtpwCIMlHFnzC_4bbixsCfs27-M8) | R&D | 2,000 | Assigned(@johannbarbie, @oz1127)  | @kosta |
 | 26  | [Upgradeable Bridge Contracts](https://github.com/leapdao/leap-contracts/issues/66) | General | 1440 | Assigned(@eshavkun) | @eezcjkr |
 | 27  | [Refactor LeapBridge into Bridge and Operator](https://github.com/leapdao/leap-contracts/issues/65) | General | 1530 | Assigned(@eezcjkr) | @eshavkun |
 
