@@ -1,35 +1,51 @@
-# PIPs
-Parsec Improvement Proposals (PIPs) describe standards for the Parsec platform, including governance structures, core protocol specifications, client APIs, and contract standards.
 
-# Contributing
-First review [PIP-1](PIPS/pip-001.md). Then clone the repository and add your PIP to it. There is a [template PIP here](pip-X.md). Then submit a Pull Request to Parsec' [PIPs repository](https://github.com/acebusters/PIPs).
+## Open Bounties (free to grab)
 
-# PIP status terms
-* **Draft** - an PIP that is open for consideration
-* **Accepted** - an PIP that is planned for immediate adoption, i.e. expected to be included in the next release.
-* **Final** - an PIP that has been adopted in a previous release.
-* **Deferred** - an PIP that is not being considered for immediate adoption. May be reconsidered in the future for a subsequent release.
+> Voted on by escrow council according to [Bounty policy](https://app.glassfrog.com/policies/10803451). scope, verifier and budget defined. These are free to grab!
 
-# Non-final PIPs
-| Number                    | Title                                    | Author            | Layer      | Status     |
-| ------------------------- | ---------------------------------------- | ----------------- | ---------- | ---------- |
+| #  | Title                                    | Circle      | Budget | Status   | Verifier |
+| -- | ---------------------------------------- | ----------- | ----------- | -------- | --- |
+| 25  | [Add State Hash function for solEVM](https://github.com/parsec-labs/solevm-truffle/issues/4) | R&D | 2.43Ξ | Approved | @troggy |
+| 28  | [Pull Tendermint Upstream](https://github.com/leapdao/leap-node/issues/85) | General | 360 | Approved | @johba |
+| 29  | [Run testnet with tendermint and split contracts](https://github.com/leapdao/leap-node/issues/90) | General | 945 | Approved | @sunify |
 
+## Bounties in Progress
 
-# Finalized PIPs (standards that have been adopted)
-| Number                    | Title                                    | Author            | Layer      | Status     |
-| ------------------------- | ---------------------------------------- | ------------------| ---------- | ---------- |
-| [1](PIPS/pip-001.md)      |  Parsec Improvoment Proposals            | Johann Barbie     | Core       | Final      |
-| [2](PIPS/pip-002.md)      |  Holacracy Constitution                  | Johann Barbie     | Governance | Final      |
-| [5](PIPS/pip-005.md)      |  Bounty Budgets 			               | Johann Barbie     | Governance | Final      |
-| [7](PIPS/pip-007.md)      |  Circle Budgets 		               	   | Victor Metleshka  | Governance | Final      |
+| #  | Title                                    | Circle      | Budget | Status   | Verifier |
+| -- | ---------------------------------------- | ----------- | ----------- | -------- | --- |
+| 13  | [State-enabled scripting conditions for Plasma](https://docs.google.com/document/d/1vStTjqvqZGyiI5AVtpwCIMlHFnzC_4bbixsCfs27-M8) | R&D | 2,000 | Assigned(@johannbarbie)  | @kosta |
+| 26  | [Upgradeable Bridge Contracts](https://github.com/leapdao/leap-contracts/issues/66) | General | 1440 | Assigned(@eshavkun) | @eezcjkr |
+| 27  | [Refactor LeapBridge into Bridge and Operator](https://github.com/leapdao/leap-contracts/issues/65) | General | 1530 | Assigned(@eezcjkr) | @eshavkun |
 
-# Deferred/Archive
-| Number                    | Title                                    | Author            | Layer      | Status     | Reason |
-| ------------------------- | ---------------------------------------- | ------------------| ---------- | ---------- | ---- |
-| [3](PIPS/pip-003.md)      |  Basic Income			                   | Victor Metleshka  | Governance | Deferred      | Deferred by [Governance Proposal](https://github.com/orgs/parsec-labs/teams/parsec-general-circle/discussions/27)
-| [4](PIPS/pip-004.md)      |  Partner Buyback Program                 | Johann Barbie     | Governance | Deferred      | PIP003 deferred |
-| [6](PIPS/pip-006.md)      |  Mentorship Program		               | Victor Metleshka  | Governance | Deferred      |  PIP003 deferred |
-| [8](PIPS/pip-008.md)      |  On-A-Budget (Doshirak) mode       	   | Kosta Korenkov  | Governance | Deferred      | |
+## Drafts/Limbo
 
-## Copyright
-It is a free culture work, licensed under Creative Commons Attribution Share-Alike (CC-BY-SA) version 4.0.
+| #  | Title                                    | Circle      | Budget | Status   | Verifier |
+| -- | ---------------------------------------- | ----------- | ----------- | -------- | --- |
+| 8  | [Plasma exit with priority queue](https://github.com/parsec-labs/parsec-contracts/issues/29) | R&D |  1,200 | Withdrawn from assignee | |
+| 12  | [JSON RPC Server V2](Bounty_012) | R&D | 1,120 | Approved | |
+| 20  | [Project Bob - Fast Plasma exits](https://github.com/parsec-labs/project-alice/issues/15) | R&D | 640 | In question | |
+| 21  | [Project Bob - Plasma Deposits](https://github.com/parsec-labs/project-alice/issues/16) | R&D | 400 | In question | |
+| 30  | [Create a stepper implementation in JS](https://github.com/leapdao/solEVM-enforcer/issues/21) | R&D | 2880 | Draft | @kosta |
+| 31  | [Verify that gas pricing is same in Solidity stepper and JS stepper](https://github.com/leapdao/solEVM-enforcer/issues/22) | R&D | 1440 | Draft | @kosta |
+| 32  | [Enable contract mocks for CALL OP-codes in solEVM](https://github.com/leapdao/solEVM-enforcer/issues/23) | R&D | 720 | Draft | @johba |
+
+## Completed Bounties
+
+| #  | Title                                    | Circle      | Budget | Status   | Verifier |
+| -- | ---------------------------------------- | ----------- | ----------- | -------- | --- |
+| 1  | [Plasma Node](Bounty_001)    | R&D         | 1,360 | Claimed([@sunify](https://github.com/@sunify))  | @troggy |
+| 3  | [Upgradable PSC Token implementation](Bounty_003)    | Comm        | 1,500  |  Claimed ( @mayank )   | @johba |
+| 5  | [Plasma Consensus Rules](https://github.com/parsec-labs/parsec-node/issues/9)                | R&D         | 1,200 | Assigned([@sunify](https://github.com/@sunify) , [@johannbarbie](https://github.com/@johannbarbie)) | @troggy |
+| 6  | [JSON RPC Server V1](https://github.com/parsec-labs/parsec-node/issues/10)                | R&D    | 960 | Claimed([@troggy](https://github.com/@troggy)) | [@Koroqe](https://github.com/@Koroqe)|
+| 7  | [Complete Primitive Data Structures in Parsec Lib](Bounty_007)  | R&D   | 960 | Claimed([@troggy](https://github.com/@troggy), [@johannbarbie](https://github.com/@johannbarbie)) | @sunify |
+| 9  | [Set up Testnet](https://github.com/parsec-labs/parsec-node/issues/12) | R&D |  900 | Claimed([@sunify](https://github.com/sunify), [@johannbarbie](https://github.com/johannbarbie)) | @troggy |
+| 10  | [Project Alice - Ethereum Testnet](https://github.com/parsec-labs/project-alice/issues/1) | R&D |  1,440 | Claimed([@maxkudla](https://github.com/@maxkudla)) | @sunify |
+| 11  | [Project Alice - Parsec Testnet](Bounty_011) | R&D |  700 | Claimed([@sunify](https://github.com/@sunify)) | @troggy |
+| 15  | [Create Gas Oracle](Bounty_015) | R&D | 400 | Claimed([@Koroqe](https://github.com/@Koroqe)) | @johba |
+| 16  | [PARSEC Block Explorer](https://github.com/parsec-labs/parsec-general-circle/issues/35) | R&D |  800 | Claimed([@eezcjkr](https://github.com/eezcjkr)) | @troggy |
+| 17  | [Project Bob - Multiple tokens](https://github.com/parsec-labs/project-alice/issues/14) | R&D | 480 | Claimed([@MaxKudla](https://github.com/MaxKudla)) | @sunify |
+| 18  | [Tokenized NFT exits](https://github.com/parsec-labs/parsec-contracts/issues/31) | R&D | 960 | Claimed([@eezcjkr](https://github.com/eezcjkr)) | @johba |
+| 22 | [Add gas metering to solEVM](https://github.com/parsec-labs/solevm-truffle/issues/1) | R&D | 3.662Ξ | Claimed([@pinkiebell](https://github.com/pinkiebell)) | @troggy |
+| 23 | [Create Off-Chain Executor for solEVM](https://github.com/parsec-labs/solevm-truffle/issues/2) | R&D | 5.21Ξ | Claimed([@troggy](https://github.com/troggy)) | @johba |
+| 24  | [Create On-Chain Executor for solEVM](https://github.com/parsec-labs/solevm-truffle/issues/3) | R&D | 7.07Ξ | Claimed([@troggy](https://github.com/troggy)) | @johba|
+| 19  | [Exit Market Maker](https://github.com/parsec-labs/parsec-contracts/issues/32) | R&D | 720 | Claimed([@eezcjkr](https://github.com/eezcjkr))  | @johba |
