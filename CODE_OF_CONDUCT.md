@@ -1,9 +1,3 @@
-    PIP: 009
-    Title: Code of Conduct
-    Author: <Johann Barbie>
-    Created: <2018-10-09>
-    Status: Meta
-
 ## Simple Summary
 This Code of Conduct outlines expectations for all those who participate in the community, as well as the consequences for unacceptable behavior.
 
@@ -48,4 +42,4 @@ If you feel you have been falsely or unfairly accused of violating this Code of 
 All community participants (contributors, paid or otherwise; and other guests) are expected to abide by this Code of Conduct in all community venues — online and in-person — as well as in all one-on-one communications pertaining to community business.
 
 ## License and attribution
-Parsec Code of Conduct is distributed under a Creative Commons Attribution - ShareAlike 4.0 International (CC BY-SA 4.0) license. It is based on the [Berlin code of conduct](https://berlincodeofconduct.org/).
+LeapDAO Code of Conduct is distributed under a Creative Commons Attribution - ShareAlike 4.0 International (CC BY-SA 4.0) license. It is based on the [Berlin code of conduct](https://berlincodeofconduct.org/).
