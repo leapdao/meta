@@ -28,6 +28,9 @@
 | 30  | [Create a stepper implementation in JS](https://github.com/leapdao/solEVM-enforcer/issues/21) | R&D | 2880 | Draft | @kosta |
 | 31  | [Verify that gas pricing is same in Solidity stepper and JS stepper](https://github.com/leapdao/solEVM-enforcer/issues/22) | R&D | 1440 | Draft | @kosta |
 | 32  | [Enable contract mocks for CALL OP-codes in solEVM](https://github.com/leapdao/solEVM-enforcer/issues/23) | R&D | 720 | Draft | @johba |
+| 33  | [Create Proposals Contract for Governance](https://github.com/leapdao/token-utilities/issues/8) | General | 1180 | Draft |  |
+| 34  | [Enable Confidence Vote for Governance](https://github.com/leapdao/token-utilities/issues/9) | General | 570 | Draft |  |
+| 35  | [Enable voting page for Governance](https://github.com/leapdao/token-utilities/issues/10) | General | 1180 | Draft |  |
 
 ## Completed Bounties
 
