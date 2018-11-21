@@ -1,7 +1,7 @@
 
-## Open Bounties (free to grab)
+## Open Bounties (up for grabs)
 
-> Voted on by escrow council according to [Bounty policy](https://app.glassfrog.com/policies/10803451). scope, verifier and budget defined. These are free to grab!
+> Voted on by escrow council according to [Bounty policy](https://app.glassfrog.com/policies/10803451). scope, verifier and budget defined. These are up for grabs!
 
 | #  | Title                                    | Circle      | Budget | Status   | Verifier |
 | -- | ---------------------------------------- | ----------- | ----------- | -------- | --- |
@@ -88,6 +88,10 @@ Verifier must regularily track a progress made on his bounties. If there is no s
 **How to quantify if the progress/effort is significant?**
 
 This is on discretion of Verifier and Proposer.
+
+**I have a great idea for a bounty, but it is not in the list?**
+
+Great! Propose a [new bounty](http://bounty.leapdao.org/viewform).
 
 **I feel that bounty definition is not clear or vague. What should I do?**
 
