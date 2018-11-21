@@ -31,6 +31,8 @@
 | #  | Title                                    | Circle      | Budget | Status   | Verifier |
 | -- | ---------------------------------------- | ----------- | ----------- | -------- | --- |
 | 12  | [JSON RPC Server V2](Bounty_012) | R&D | 1,120 | In Question | @kosta |
+| 38  | [MerkleMine Contract, Backend and Frontend](https://github.com/leapdao/merkle-mine-client/issues/1) | General | 1,800 | Draft | @kosta |
+| 39  | [Create Snapshot of Ethereum chain](https://github.com/leapdao/merkle-mine-client/issues/2) | General | 1,350 | Draft | @kosta |
 
 
 ## Completed Bounties
