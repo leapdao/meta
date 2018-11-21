@@ -5,9 +5,18 @@
 
 | #  | Title                                    | Circle      | Budget | Status   | Verifier |
 | -- | ---------------------------------------- | ----------- | ----------- | -------- | --- |
+| 8  | [Transform MinVM into MoreVP Plasma](https://github.com/leapdao/leap-contracts/issues/29) | R&D |  1,200 | Withdrawn from assignee | |
 | 25  | [Add State Hash function for solEVM](https://github.com/leapdao/solEVM-enforcer/issues/4) | R&D | 2.43Ξ | Approved | @troggy |
 | 28  | [Pull Tendermint Upstream](https://github.com/leapdao/leap-node/issues/85) | General | 360 | Approved | @johba |
 | 29  | [Run testnet with tendermint and split contracts](https://github.com/leapdao/leap-node/issues/90) | General | 945 | Approved | @sunify |
+| 30  | [Create a stepper implementation in JS](https://github.com/leapdao/solEVM-enforcer/issues/21) | R&D | 2880 | Approved | @kosta |
+| 31  | [Verify that gas pricing is same in Solidity stepper and JS stepper](https://github.com/leapdao/solEVM-enforcer/issues/22) | R&D | 1440 | Approved | @kosta |
+| 32  | [Enable contract mocks for CALL OP-codes in solEVM](https://github.com/leapdao/solEVM-enforcer/issues/23) | R&D | 720 | Approved | @johba |
+| 33  | [Create Proposals Contract for Governance](https://github.com/leapdao/token-utilities/issues/8) | General | 560 | Approved |  |
+| 34  | [Enable Confidence Vote for Governance](https://github.com/leapdao/token-utilities/issues/9) | General | 570 | Approved |  |
+| 35  | [Enable voting page for Governance](https://github.com/leapdao/token-utilities/issues/10) | General | 1180 | Approved |  |
+| 36  | [Enable Veto for Governance](https://github.com/leapdao/token-utilities/issues/11) | General | 1300 | Approved |  |
+| 37  | [Community page](https://github.com/leapdao/leapdao-website/issues/8) | General | 720 | Approved |  |
 
 ## Bounties in Progress
 
@@ -21,19 +30,9 @@
 
 | #  | Title                                    | Circle      | Budget | Status   | Verifier |
 | -- | ---------------------------------------- | ----------- | ----------- | -------- | --- |
-| 8  | [Plasma exit with priority queue](https://github.com/leapdao/leap-contracts/issues/29) | R&D |  1,200 | Withdrawn from assignee | |
 | 12  | [JSON RPC Server V2](Bounty_012) | R&D | 1,120 | Approved | |
 | 20  | [Project Bob - Fast Plasma exits](https://github.com/leapdao/project-alice/issues/15) | R&D | 640 | In question | |
 | 21  | [Project Bob - Plasma Deposits](https://github.com/leapdao/project-alice/issues/16) | R&D | 400 | In question | |
-| 30  | [Create a stepper implementation in JS](https://github.com/leapdao/solEVM-enforcer/issues/21) | R&D | 2880 | Draft | @kosta |
-| 31  | [Verify that gas pricing is same in Solidity stepper and JS stepper](https://github.com/leapdao/solEVM-enforcer/issues/22) | R&D | 1440 | Draft | @kosta |
-| 32  | [Enable contract mocks for CALL OP-codes in solEVM](https://github.com/leapdao/solEVM-enforcer/issues/23) | R&D | 720 | Draft | @johba |
-| 33  | [Create Proposals Contract for Governance](https://github.com/leapdao/token-utilities/issues/8) | General | 560 | Draft |  |
-| 34  | [Enable Confidence Vote for Governance](https://github.com/leapdao/token-utilities/issues/9) | General | 570 | Draft |  |
-| 35  | [Enable voting page for Governance](https://github.com/leapdao/token-utilities/issues/10) | General | 1180 | Draft |  |
-| 36  | [Enable Veto for Governance](https://github.com/leapdao/token-utilities/issues/11) | General | 1300 | Draft |  |
-| 37  | [Community page](https://github.com/leapdao/leapdao-website/issues/8) | General | 720 | Draft |  |
-
 
 
 ## Completed Bounties
