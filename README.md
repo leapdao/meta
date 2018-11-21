@@ -5,7 +5,7 @@
 
 | #  | Title                                    | Circle      | Budget | Status   | Verifier |
 | -- | ---------------------------------------- | ----------- | ----------- | -------- | --- |
-| 8  | [Transform MinVM into MoreVP Plasma](https://github.com/leapdao/leap-contracts/issues/29) | R&D |  1,200 | Withdrawn from assignee | |
+| 8  | [Transform MinVM into MoreVP Plasma](https://github.com/leapdao/leap-contracts/issues/29) | R&D |  1,200 | Withdrawn from assignee | @johba |
 | 25  | [Add State Hash function for solEVM](https://github.com/leapdao/solEVM-enforcer/issues/4) | R&D | 2.43Ξ | Approved | @troggy |
 | 28  | [Pull Tendermint Upstream](https://github.com/leapdao/leap-node/issues/85) | General | 360 | Approved | @johba |
 | 29  | [Run testnet with tendermint and split contracts](https://github.com/leapdao/leap-node/issues/90) | General | 945 | Approved | @sunify |
