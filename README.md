@@ -6,7 +6,6 @@
 | #  | Title                                    | Circle      | Budget | Status   | Verifier |
 | -- | ---------------------------------------- | ----------- | ----------- | -------- | --- |
 | 25  | [Add State Hash function for solEVM](https://github.com/leapdao/solEVM-enforcer/issues/4) | R&D | 2.43Ξ | Approved | @troggy |
-| 28  | [Pull Tendermint Upstream](https://github.com/leapdao/leap-node/issues/85) | General | 360 | Approved | @johba |
 | 29  | [Run testnet with tendermint and split contracts](https://github.com/leapdao/leap-node/issues/90) | General | 945 | Approved | @sunify |
 | 30  | [Create a stepper implementation in JS](https://github.com/leapdao/solEVM-enforcer/issues/21) | R&D | 2880 | Approved | @kosta |
 | 31  | [Verify that gas pricing is same in Solidity stepper and JS stepper](https://github.com/leapdao/solEVM-enforcer/issues/22) | R&D | 1440 | Approved | @kosta |
@@ -21,9 +20,10 @@
 
 | #  | Title                                    | Circle      | Budget | Status   | Verifier |
 | -- | ---------------------------------------- | ----------- | ----------- | -------- | --- |
-| 8  | [Transform MinVM into MoreVP Plasma](https://github.com/leapdao/leap-contracts/issues/21) | R&D |  1,200 | Assigned(@kosta) | @johba |
+| 8  | [Transform MinVM into MoreVP Plasma](https://github.com/leapdao/leap-contracts/issues/21) | R&D |  1,500 | Assigned(@kosta) | @johba |
 | 26  | [Upgradeable Bridge Contracts](https://github.com/leapdao/leap-contracts/issues/66) | General | 1440 | Assigned(@eshavkun) | @eezcjkr |
 | 27  | [Refactor LeapBridge into Bridge and Operator](https://github.com/leapdao/leap-contracts/issues/65) | General | 1530 | Assigned(@eezcjkr) | @eshavkun |
+| 28  | [Pull Tendermint Upstream](https://github.com/leapdao/leap-node/issues/85) | General | 450 | Assigned(@sunify) | @johba |
 |   | [Enable Compact LOG Proof For SolEVM](https://gitcoin.co/issue/leapdao/solEVM-enforcer/19/1763) | R&D | 3.7Ξ | Assigned(gitcoin) | |
 |   | [Enable Compact Stack Proofs For SolEVM](https://gitcoin.co/issue/leapdao/solEVM-enforcer/15/1761) | R&D | 3.7Ξ | Assigned(gitcoin)||
 | 35  | [Enable voting page for Governance](https://github.com/leapdao/token-utilities/issues/10) | General | 1180 | Assigned(@AnthonyAkentiev) | @jk |
