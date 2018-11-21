@@ -11,7 +11,7 @@
 | 31  | [Verify that gas pricing is same in Solidity stepper and JS stepper](https://github.com/leapdao/solEVM-enforcer/issues/22) | R&D | 1440 | Approved | @kosta |
 | 32  | [Enable contract mocks for CALL OP-codes in solEVM](https://github.com/leapdao/solEVM-enforcer/issues/23) | R&D | 720 | Approved | @johba |
 | 34  | [Enable Confidence Vote for Governance](https://github.com/leapdao/token-utilities/issues/9) | General | 570 | Approved | @jk |
-| 36  | [Enable Veto for Governance](https://github.com/leapdao/token-utilities/issues/11) | General | 1300 | Approved | @jk |
+| 35  | [Enable voting page for Governance](https://github.com/leapdao/token-utilities/issues/10) | General | 1180 | approved | @jk |
 | 37  | [Community page](https://github.com/leapdao/leapdao-website/issues/8) | General | 720 | Approved | @johba |
 |   | [Enable Compact Memory Proofs For SolEVM](https://gitcoin.co/issue/leapdao/solEVM-enforcer/17/1762) | R&D | 7.3Ξ | Approved |
 |   | [Commit To The Execution Path in Challenge Manager](https://gitcoin.co/issue/leapdao/solEVM-enforcer/20/1764) | R&D | 7.3Ξ | Approved | |
@@ -26,8 +26,8 @@
 | 28  | [Pull Tendermint Upstream](https://github.com/leapdao/leap-node/issues/85) | General | 450 | Assigned(@sunify) | @johba |
 |   | [Enable Compact LOG Proof For SolEVM](https://gitcoin.co/issue/leapdao/solEVM-enforcer/19/1763) | R&D | 3.7Ξ | Assigned(gitcoin) | |
 |   | [Enable Compact Stack Proofs For SolEVM](https://gitcoin.co/issue/leapdao/solEVM-enforcer/15/1761) | R&D | 3.7Ξ | Assigned(gitcoin)||
-| 35  | [Enable voting page for Governance](https://github.com/leapdao/token-utilities/issues/10) | General | 1180 | Assigned(@AnthonyAkentiev) | @jk |
 | 33  | [Create Proposals Contract for Governance](https://github.com/leapdao/token-utilities/issues/8) | General | 560 | Assigned(@AnthonyAkentiev) | @jk |
+| 36  | [Enable Veto for Governance](https://github.com/leapdao/token-utilities/issues/11) | General | 1300 | Assigned(@AnthonyAkentiev) | @jk |
 | 38  | [MerkleMine Contract, Backend and Frontend](https://github.com/leapdao/merkle-mine-client/issues/1) | General | 1,800 | Assigned(@helge, @johba) | @kosta |
 | 39  | [Create Snapshot of Ethereum chain](https://github.com/leapdao/merkle-mine-client/issues/2) | General | 1,350 | Assigned(@johba) | @kosta |
 
