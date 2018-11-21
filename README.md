@@ -5,7 +5,6 @@
 
 | #  | Title                                    | Circle      | Budget | Status   | Verifier |
 | -- | ---------------------------------------- | ----------- | ----------- | -------- | --- |
-| 8  | [Transform MinVM into MoreVP Plasma](https://github.com/leapdao/leap-contracts/issues/21) | R&D |  1,200 | Withdrawn from assignee | @johba |
 | 25  | [Add State Hash function for solEVM](https://github.com/leapdao/solEVM-enforcer/issues/4) | R&D | 2.43Ξ | Approved | @troggy |
 | 28  | [Pull Tendermint Upstream](https://github.com/leapdao/leap-node/issues/85) | General | 360 | Approved | @johba |
 | 29  | [Run testnet with tendermint and split contracts](https://github.com/leapdao/leap-node/issues/90) | General | 945 | Approved | @sunify |
@@ -17,12 +16,14 @@
 | 37  | [Community page](https://github.com/leapdao/leapdao-website/issues/8) | General | 720 | Approved | @johba |
 |   | [Enable Compact Memory Proofs For SolEVM](https://gitcoin.co/issue/leapdao/solEVM-enforcer/17/1762) | R&D | 7.3Ξ | Approved |
 |   | [Commit To The Execution Path in Challenge Manager](https://gitcoin.co/issue/leapdao/solEVM-enforcer/20/1764) | R&D | 7.3Ξ | Approved | |
+| 38  | [MerkleMine Contract, Backend and Frontend](https://github.com/leapdao/merkle-mine-client/issues/1) | General | 1,800 | Assigned(@helge, @johba) | @kosta |
+| 39  | [Create Snapshot of Ethereum chain](https://github.com/leapdao/merkle-mine-client/issues/2) | General | 1,350 | Assigned(@johba) | @kosta |
 
 ## Bounties in Progress
 
 | #  | Title                                    | Circle      | Budget | Status   | Verifier |
 | -- | ---------------------------------------- | ----------- | ----------- | -------- | --- |
-| 13  | [State-enabled scripting conditions for Plasma](https://docs.google.com/document/d/1vStTjqvqZGyiI5AVtpwCIMlHFnzC_4bbixsCfs27-M8) | R&D | 2,000 | Assigned(@johannbarbie, @oz1127)  | @kosta |
+| 8  | [Transform MinVM into MoreVP Plasma](https://github.com/leapdao/leap-contracts/issues/21) | R&D |  1,200 | Assigned(@kosta) | @johba |
 | 26  | [Upgradeable Bridge Contracts](https://github.com/leapdao/leap-contracts/issues/66) | General | 1440 | Assigned(@eshavkun) | @eezcjkr |
 | 27  | [Refactor LeapBridge into Bridge and Operator](https://github.com/leapdao/leap-contracts/issues/65) | General | 1530 | Assigned(@eezcjkr) | @eshavkun |
 |   | [Enable Compact LOG Proof For SolEVM](https://gitcoin.co/issue/leapdao/solEVM-enforcer/19/1763) | R&D | 3.7Ξ | Assigned(gitcoin) | |
@@ -35,8 +36,6 @@
 | #  | Title                                    | Circle      | Budget | Status   | Verifier |
 | -- | ---------------------------------------- | ----------- | ----------- | -------- | --- |
 | 12  | [JSON RPC Server V2](Bounty_012) | R&D | 1,120 | In Question | @kosta |
-| 38  | [MerkleMine Contract, Backend and Frontend](https://github.com/leapdao/merkle-mine-client/issues/1) | General | 1,800 | Draft | @kosta |
-| 39  | [Create Snapshot of Ethereum chain](https://github.com/leapdao/merkle-mine-client/issues/2) | General | 1,350 | Draft | @kosta |
 
 
 ## Completed Bounties
@@ -51,6 +50,7 @@
 | 9  | [Set up Testnet](https://github.com/leapdao/leap-node/issues/12) | R&D |  900 | Claimed([@sunify](https://github.com/sunify), [@johannbarbie](https://github.com/johannbarbie)) | @troggy |
 | 10  | [Project Alice - Ethereum Testnet](https://github.com/leapdao/project-alice/issues/1) | R&D |  1,440 | Claimed([@maxkudla](https://github.com/@maxkudla)) | @sunify |
 | 11  | [Project Alice - Parsec Testnet](Bounty_011) | R&D |  700 | Claimed([@sunify](https://github.com/@sunify)) | @troggy |
+| 13  | [State-enabled scripting conditions for Plasma](https://docs.google.com/document/d/1vStTjqvqZGyiI5AVtpwCIMlHFnzC_4bbixsCfs27-M8) | R&D | 1,500 | Claimed(@johannbarbie)  | @kosta |
 | 15  | [Create Gas Oracle](Bounty_015) | R&D | 400 | Claimed([@Koroqe](https://github.com/@Koroqe)) | @johba |
 | 16  | [PARSEC Block Explorer](https://github.com/leapdao/leap-general-circle/issues/35) | R&D |  800 | Claimed([@eezcjkr](https://github.com/eezcjkr)) | @troggy |
 | 17  | [Project Bob - Multiple tokens](https://github.com/leapdao/project-alice/issues/14) | R&D | 480 | Claimed([@MaxKudla](https://github.com/MaxKudla)) | @sunify |
