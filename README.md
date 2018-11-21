@@ -15,8 +15,8 @@
 | 34  | [Enable Confidence Vote for Governance](https://github.com/leapdao/token-utilities/issues/9) | General | 570 | Approved | @jk |
 | 36  | [Enable Veto for Governance](https://github.com/leapdao/token-utilities/issues/11) | General | 1300 | Approved | @jk |
 | 37  | [Community page](https://github.com/leapdao/leapdao-website/issues/8) | General | 720 | Approved | @johba |
-|   | [Enable Compact Memory Proofs For SolEVM](https://gitcoin.co/issue/leapdao/solEVM-enforcer/17/1762) | R&D | | Approved |
-|   | [Commit To The Execution Path in Challenge Manager](https://gitcoin.co/issue/leapdao/solEVM-enforcer/20/1764) | R&D || Approved | |
+|   | [Enable Compact Memory Proofs For SolEVM](https://gitcoin.co/issue/leapdao/solEVM-enforcer/17/1762) | R&D | 7.3Ξ | Approved |
+|   | [Commit To The Execution Path in Challenge Manager](https://gitcoin.co/issue/leapdao/solEVM-enforcer/20/1764) | R&D | 7.3Ξ | Approved | |
 
 ## Bounties in Progress
 
@@ -25,8 +25,8 @@
 | 13  | [State-enabled scripting conditions for Plasma](https://docs.google.com/document/d/1vStTjqvqZGyiI5AVtpwCIMlHFnzC_4bbixsCfs27-M8) | R&D | 2,000 | Assigned(@johannbarbie, @oz1127)  | @kosta |
 | 26  | [Upgradeable Bridge Contracts](https://github.com/leapdao/leap-contracts/issues/66) | General | 1440 | Assigned(@eshavkun) | @eezcjkr |
 | 27  | [Refactor LeapBridge into Bridge and Operator](https://github.com/leapdao/leap-contracts/issues/65) | General | 1530 | Assigned(@eezcjkr) | @eshavkun |
-|   | [Enable Compact LOG Proof For SolEVM](https://gitcoin.co/issue/leapdao/solEVM-enforcer/19/1763) | R&D | | Assigned(gitcoin) | |
-|   | [Enable Compact Stack Proofs For SolEVM](https://gitcoin.co/issue/leapdao/solEVM-enforcer/15/1761) | R&D | | Assigned(gitcoin)||
+|   | [Enable Compact LOG Proof For SolEVM](https://gitcoin.co/issue/leapdao/solEVM-enforcer/19/1763) | R&D | 3.7Ξ | Assigned(gitcoin) | |
+|   | [Enable Compact Stack Proofs For SolEVM](https://gitcoin.co/issue/leapdao/solEVM-enforcer/15/1761) | R&D | 3.7Ξ | Assigned(gitcoin)||
 | 35  | [Enable voting page for Governance](https://github.com/leapdao/token-utilities/issues/10) | General | 1180 | Assigned(@AnthonyAkentiev) | @jk |
 | 33  | [Create Proposals Contract for Governance](https://github.com/leapdao/token-utilities/issues/8) | General | 560 | Assigned(@AnthonyAkentiev) | @jk |
 
