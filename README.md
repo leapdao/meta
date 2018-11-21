@@ -32,6 +32,7 @@
 | 34  | [Enable Confidence Vote for Governance](https://github.com/leapdao/token-utilities/issues/9) | General | 570 | Draft |  |
 | 35  | [Enable voting page for Governance](https://github.com/leapdao/token-utilities/issues/10) | General | 1180 | Draft |  |
 | 36  | [Enable Veto for Governance](https://github.com/leapdao/token-utilities/issues/11) | General | 1300 | Draft |  |
+| 37  | [Community page](https://github.com/leapdao/leapdao-website/issues/8) | General | 720 | Draft |  |
 
 
 
