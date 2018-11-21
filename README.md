@@ -12,11 +12,11 @@
 | 30  | [Create a stepper implementation in JS](https://github.com/leapdao/solEVM-enforcer/issues/21) | R&D | 2880 | Approved | @kosta |
 | 31  | [Verify that gas pricing is same in Solidity stepper and JS stepper](https://github.com/leapdao/solEVM-enforcer/issues/22) | R&D | 1440 | Approved | @kosta |
 | 32  | [Enable contract mocks for CALL OP-codes in solEVM](https://github.com/leapdao/solEVM-enforcer/issues/23) | R&D | 720 | Approved | @johba |
-| 33  | [Create Proposals Contract for Governance](https://github.com/leapdao/token-utilities/issues/8) | General | 560 | Approved |  |
-| 34  | [Enable Confidence Vote for Governance](https://github.com/leapdao/token-utilities/issues/9) | General | 570 | Approved |  |
-| 35  | [Enable voting page for Governance](https://github.com/leapdao/token-utilities/issues/10) | General | 1180 | Approved |  |
-| 36  | [Enable Veto for Governance](https://github.com/leapdao/token-utilities/issues/11) | General | 1300 | Approved |  |
-| 37  | [Community page](https://github.com/leapdao/leapdao-website/issues/8) | General | 720 | Approved |  |
+| 33  | [Create Proposals Contract for Governance](https://github.com/leapdao/token-utilities/issues/8) | General | 560 | Approved | @jk |
+| 34  | [Enable Confidence Vote for Governance](https://github.com/leapdao/token-utilities/issues/9) | General | 570 | Approved | @jk |
+| 35  | [Enable voting page for Governance](https://github.com/leapdao/token-utilities/issues/10) | General | 1180 | Approved | @jk |
+| 36  | [Enable Veto for Governance](https://github.com/leapdao/token-utilities/issues/11) | General | 1300 | Approved | @jk |
+| 37  | [Community page](https://github.com/leapdao/leapdao-website/issues/8) | General | 720 | Approved | @johba |
 
 ## Bounties in Progress
 
@@ -30,9 +30,7 @@
 
 | #  | Title                                    | Circle      | Budget | Status   | Verifier |
 | -- | ---------------------------------------- | ----------- | ----------- | -------- | --- |
-| 12  | [JSON RPC Server V2](Bounty_012) | R&D | 1,120 | Approved | |
-| 20  | [Project Bob - Fast Plasma exits](https://github.com/leapdao/project-alice/issues/15) | R&D | 640 | In question | |
-| 21  | [Project Bob - Plasma Deposits](https://github.com/leapdao/project-alice/issues/16) | R&D | 400 | In question | |
+| 12  | [JSON RPC Server V2](Bounty_012) | R&D | 1,120 | In Question | @kosta |
 
 
 ## Completed Bounties
