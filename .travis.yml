@@ -1,0 +1,6 @@
+language: python
+script:
+  - curl -s -X POST -H "Content-Type: application/json" -H "Accept: application/json" -H "Travis-API-Version: 3" -H "Authorization: token $TRAVIS_TOKEN" -d '{ "request": { "branch":"master", "message":"Travis: bounties repository changed" } }' https://api.travis-ci.org/repo/leapdao%2Fleapdao-website/requests
+env:
+  global:
+    secure: gkyfMn8IHC0rSSjXjhelxvfzwrWazZMF3cczql/Cxfc/yP6cAaLxjsGI2Ak6EQlVbwQMi+KjVQwpuIU7xed6DEVGsPGIwFsMIUMz4OLxQq5QcnPvTtAHkGEjgY+xg6w1rJ2guBImeRDCa6rV5YenCx/4S/NqzUPPZQ2xqxISwIaeOrmmckbJXYZ5uAAZQh78/5/oqfFF21av/T8G2o2nqoRBv36bFVmPCEIvZbF4eU/TWpKjVXr4vzExltcBB+1mdSVsP34FaqGMTqfeEI8O1Dkml6q4TE1DXrC5/OR2ymRaiYFFG4cMKabylyn/vkVxtfgg1Sf3Xv4/MK4tdOF9tQk19tF75mn4MMvv08KvnnA4ifPlPuLwUeoqjF9u6ReVKGQC+4W3hKN1F59uioVdU19pg149RYP1IJnD0mLNZYpXThcUtrGC/OfYV230i57ElsU02uejoQHgjk4fGKiPR5OZO6wNK4EBOyJo3ZyKPi66hbTO9i0K2YAJDF/0bIghPwKmTfJXmOyV6qVM0qlJYwzqSoZBBcHTDVZLDkK3AnB7GZlza4P/roP96YfpFY9Fk8kIa7eL8TCAYpLwreEfGwmIlzCRSJCVHekO4eaCCr2GXGUUmND9of2YJQ9GRbus7Aqg773xC8eUJgAtxd+PY1MsJyPSrvuQdqIKpGDKEbc=
