@@ -6,13 +6,13 @@
 | #  | Title                                    | Circle      | Budget | Status   | Verifier |
 | -- | ---------------------------------------- | ----------- | ----------- | -------- | --- |
 | 25  | [Add State Hash function for solEVM](https://github.com/leapdao/solEVM-enforcer/issues/4) | R&D | 2.43Ξ | Approved | @troggy |
-| 29  | [Run testnet with tendermint and split contracts](https://github.com/leapdao/leap-node/issues/90) | General | 945 DAI | Approved | @sunify |
-| 30  | [Create a stepper implementation in JS](https://github.com/leapdao/solEVM-enforcer/issues/21) | R&D | 2880 DAI | Approved | @kosta |
-| 31  | [Verify that gas pricing is same in Solidity stepper and JS stepper](https://github.com/leapdao/solEVM-enforcer/issues/22) | R&D | 1440 DAI | Approved | @kosta |
-| 32  | [Enable contract mocks for CALL OP-codes in solEVM](https://github.com/leapdao/solEVM-enforcer/issues/23) | R&D | 720 DAI | Approved | @johba |
-| 34  | [Enable Confidence Vote for Governance](https://github.com/leapdao/token-utilities/issues/9) | General | 570 DAI | Approved | @jk |
-| 35  | [Enable voting page for Governance](https://github.com/leapdao/token-utilities/issues/10) | General | 1180 DAI | approved | @jk |
-| 37  | [Community page](https://github.com/leapdao/leapdao-website/issues/8) | General | 720 DAI | Approved | @johba |
+| 29  | [Run testnet with tendermint and split contracts](https://github.com/leapdao/leap-node/issues/90) | General | <nobr>945 DAI</nobr> | Approved | @sunify |
+| 30  | [Create a stepper implementation in JS](https://github.com/leapdao/solEVM-enforcer/issues/21) | R&D | <nobr>2880 DAI</nobr> | Approved | @kosta |
+| 31  | [Verify that gas pricing is same in Solidity stepper and JS stepper](https://github.com/leapdao/solEVM-enforcer/issues/22) | R&D | <nobr>1440 DAI</nobr> | Approved | @kosta |
+| 32  | [Enable contract mocks for CALL OP-codes in solEVM](https://github.com/leapdao/solEVM-enforcer/issues/23) | R&D | <nobr>720 DAI</nobr> | Approved | @johba |
+| 34  | [Enable Confidence Vote for Governance](https://github.com/leapdao/token-utilities/issues/9) | General | <nobr>570 DAI</nobr> | Approved | @jk |
+| 35  | [Enable voting page for Governance](https://github.com/leapdao/token-utilities/issues/10) | General | <nobr>1180 DAI</nobr> | approved | @jk |
+| 37  | [Community page](https://github.com/leapdao/leapdao-website/issues/8) | General | <nobr>720 DAI</nobr> | Approved | @johba |
 |   | [Enable Compact Memory Proofs For SolEVM](https://gitcoin.co/issue/leapdao/solEVM-enforcer/17/1762) | R&D | 7.3Ξ | Approved |
 |   | [Commit To The Execution Path in Challenge Manager](https://gitcoin.co/issue/leapdao/solEVM-enforcer/20/1764) | R&D | 7.3Ξ | Approved | |
 
@@ -20,45 +20,45 @@
 
 | #  | Title                                    | Circle      | Budget | Status   | Verifier |
 | -- | ---------------------------------------- | ----------- | ----------- | -------- | --- |
-| 8  | [Transform MinVM into MoreVP Plasma](https://github.com/leapdao/leap-contracts/issues/21) | R&D |  1500 DAI | Assigned(@kosta) | @johba |
-| 26  | [Upgradeable Bridge Contracts](https://github.com/leapdao/leap-contracts/issues/66) | General | 1440 DAI | Assigned(@eshavkun) | @eezcjkr |
-| 27  | [Refactor LeapBridge into Bridge and Operator](https://github.com/leapdao/leap-contracts/issues/65) | General | 1530 DAI | Assigned(@eezcjkr) | @eshavkun |
-| 28  | [Pull Tendermint Upstream](https://github.com/leapdao/leap-node/issues/85) | General | 450 DAI | Assigned(@sunify) | @johba |
+| 8  | [Transform MinVM into MoreVP Plasma](https://github.com/leapdao/leap-contracts/issues/21) | R&D |  <nobr>1500 DAI</nobr> | Assigned(@kosta) | @johba |
+| 26  | [Upgradeable Bridge Contracts](https://github.com/leapdao/leap-contracts/issues/66) | General | <nobr>1440 DAI</nobr> | Assigned(@eshavkun) | @eezcjkr |
+| 27  | [Refactor LeapBridge into Bridge and Operator](https://github.com/leapdao/leap-contracts/issues/65) | General | <nobr>1530 DAI</nobr> | Assigned(@eezcjkr) | @eshavkun |
+| 28  | [Pull Tendermint Upstream](https://github.com/leapdao/leap-node/issues/85) | General | <nobr>450 DAI</nobr> | Assigned(@sunify) | @johba |
 |   | [Enable Compact LOG Proof For SolEVM](https://gitcoin.co/issue/leapdao/solEVM-enforcer/19/1763) | R&D | 3.7Ξ | Assigned(gitcoin) | |
 |   | [Enable Compact Stack Proofs For SolEVM](https://gitcoin.co/issue/leapdao/solEVM-enforcer/15/1761) | R&D | 3.7Ξ | Assigned(gitcoin)||
-| 33  | [Create Proposals Contract for Governance](https://github.com/leapdao/token-utilities/issues/8) | General | 560 DAI | Assigned(@AnthonyAkentiev) | @jk |
-| 36  | [Enable Veto for Governance](https://github.com/leapdao/token-utilities/issues/11) | General | 1300 DAI | Assigned(@AnthonyAkentiev) | @jk |
-| 38  | [MerkleMine Contract, Backend and Frontend](https://github.com/leapdao/merkle-mine-client/issues/1) | General | 1800 DAI | Assigned(@helge, @johba) | @kosta |
-| 39  | [Create Snapshot of Ethereum chain](https://github.com/leapdao/merkle-mine-client/issues/2) | General | 1350 DAI | Assigned(@johba) | @kosta |
+| 33  | [Create Proposals Contract for Governance](https://github.com/leapdao/token-utilities/issues/8) | General | <nobr>560 DAI</nobr> | Assigned(@AnthonyAkentiev) | @jk |
+| 36  | [Enable Veto for Governance](https://github.com/leapdao/token-utilities/issues/11) | General | <nobr>1300 DAI</nobr> | Assigned(@AnthonyAkentiev) | @jk |
+| 38  | [MerkleMine Contract, Backend and Frontend](https://github.com/leapdao/merkle-mine-client/issues/1) | General | <nobr>1800 DAI</nobr> | Assigned(@helge, @johba) | @kosta |
+| 39  | [Create Snapshot of Ethereum chain](https://github.com/leapdao/merkle-mine-client/issues/2) | General | <nobr>1350 DAI</nobr> | Assigned(@johba) | @kosta |
 
 ## Drafts/Limbo
 
 | #  | Title                                    | Circle      | Budget | Status   | Verifier |
 | -- | ---------------------------------------- | ----------- | ----------- | -------- | --- |
-| 12  | [JSON RPC Server V2](Bounty_012) | R&D | 1,120 DAI | In Question | @kosta |
+| 12  | [JSON RPC Server V2](Bounty_012) | R&D | 1,<nobr>120 DAI</nobr> | In Question | @kosta |
 
 
 ## Completed Bounties
 
 | #  | Title                                    | Circle      | Budget | Status   | Verifier |
 | -- | ---------------------------------------- | ----------- | ----------- | -------- | --- |
-| 1  | [Plasma Node](Bounty_001)    | R&D         | 1,360 DAI | Claimed([@sunify](https://github.com/@sunify))  | @troggy |
-| 3  | [Upgradable PSC Token implementation](Bounty_003)    | Comm        | 1,500 DAI  |  Claimed ( @mayank )   | @johba |
-| 5  | [Plasma Consensus Rules](https://github.com/leapdao/leap-node/issues/9)                | R&D         | 1,200 DAI | Assigned([@sunify](https://github.com/@sunify) , [@johannbarbie](https://github.com/@johannbarbie)) | @troggy |
-| 6  | [JSON RPC Server V1](https://github.com/leapdao/leap-node/issues/10)                | R&D    | 960 DAI | Claimed([@troggy](https://github.com/@troggy)) | [@Koroqe](https://github.com/@Koroqe)|
-| 7  | [Complete Primitive Data Structures in Parsec Lib](Bounty_007)  | R&D   | 960 DAI | Claimed([@troggy](https://github.com/@troggy), [@johannbarbie](https://github.com/@johannbarbie)) | @sunify |
-| 9  | [Set up Testnet](https://github.com/leapdao/leap-node/issues/12) | R&D |  900 DAI | Claimed([@sunify](https://github.com/sunify), [@johannbarbie](https://github.com/johannbarbie)) | @troggy |
-| 10  | [Project Alice - Ethereum Testnet](https://github.com/leapdao/project-alice/issues/1) | R&D |  1,440 DAI | Claimed([@maxkudla](https://github.com/@maxkudla)) | @sunify |
-| 11  | [Project Alice - Parsec Testnet](Bounty_011) | R&D |  700 DAI | Claimed([@sunify](https://github.com/@sunify)) | @troggy |
-| 13  | [State-enabled scripting conditions for Plasma](https://docs.google.com/document/d/1vStTjqvqZGyiI5AVtpwCIMlHFnzC_4bbixsCfs27-M8) | R&D | 1,500 DAI | Claimed(@johannbarbie)  | @kosta |
-| 15  | [Create Gas Oracle](Bounty_015) | R&D | 400 DAI | Claimed([@Koroqe](https://github.com/@Koroqe)) | @johba |
-| 16  | [PARSEC Block Explorer](https://github.com/leapdao/leap-general-circle/issues/35) | R&D |  800 DAI | Claimed([@eezcjkr](https://github.com/eezcjkr)) | @troggy |
-| 17  | [Project Bob - Multiple tokens](https://github.com/leapdao/project-alice/issues/14) | R&D | 480 DAI | Claimed([@MaxKudla](https://github.com/MaxKudla)) | @sunify |
-| 18  | [Tokenized NFT exits](https://github.com/leapdao/leap-contracts/issues/31) | R&D | 960 DAI | Claimed([@eezcjkr](https://github.com/eezcjkr)) | @johba |
+| 1  | [Plasma Node](Bounty_001)    | R&D         | 1,<nobr>360 DAI</nobr> | Claimed([@sunify](https://github.com/@sunify))  | @troggy |
+| 3  | [Upgradable PSC Token implementation](Bounty_003)    | Comm        | 1,<nobr>500 DAI</nobr>  |  Claimed ( @mayank )   | @johba |
+| 5  | [Plasma Consensus Rules](https://github.com/leapdao/leap-node/issues/9)                | R&D         | 1,<nobr>200 DAI</nobr> | Assigned([@sunify](https://github.com/@sunify) , [@johannbarbie](https://github.com/@johannbarbie)) | @troggy |
+| 6  | [JSON RPC Server V1](https://github.com/leapdao/leap-node/issues/10)                | R&D    | <nobr>960 DAI</nobr> | Claimed([@troggy](https://github.com/@troggy)) | [@Koroqe](https://github.com/@Koroqe)|
+| 7  | [Complete Primitive Data Structures in Parsec Lib](Bounty_007)  | R&D   | <nobr>960 DAI</nobr> | Claimed([@troggy](https://github.com/@troggy), [@johannbarbie](https://github.com/@johannbarbie)) | @sunify |
+| 9  | [Set up Testnet](https://github.com/leapdao/leap-node/issues/12) | R&D |  <nobr>900 DAI</nobr> | Claimed([@sunify](https://github.com/sunify), [@johannbarbie](https://github.com/johannbarbie)) | @troggy |
+| 10  | [Project Alice - Ethereum Testnet](https://github.com/leapdao/project-alice/issues/1) | R&D |  1,<nobr>440 DAI</nobr> | Claimed([@maxkudla](https://github.com/@maxkudla)) | @sunify |
+| 11  | [Project Alice - Parsec Testnet](Bounty_011) | R&D |  <nobr>700 DAI</nobr> | Claimed([@sunify](https://github.com/@sunify)) | @troggy |
+| 13  | [State-enabled scripting conditions for Plasma](https://docs.google.com/document/d/1vStTjqvqZGyiI5AVtpwCIMlHFnzC_4bbixsCfs27-M8) | R&D | 1,<nobr>500 DAI</nobr> | Claimed(@johannbarbie)  | @kosta |
+| 15  | [Create Gas Oracle](Bounty_015) | R&D | <nobr>400 DAI</nobr> | Claimed([@Koroqe](https://github.com/@Koroqe)) | @johba |
+| 16  | [PARSEC Block Explorer](https://github.com/leapdao/leap-general-circle/issues/35) | R&D |  <nobr>800 DAI</nobr> | Claimed([@eezcjkr](https://github.com/eezcjkr)) | @troggy |
+| 17  | [Project Bob - Multiple tokens](https://github.com/leapdao/project-alice/issues/14) | R&D | <nobr>480 DAI</nobr> | Claimed([@MaxKudla](https://github.com/MaxKudla)) | @sunify |
+| 18  | [Tokenized NFT exits](https://github.com/leapdao/leap-contracts/issues/31) | R&D | <nobr>960 DAI</nobr> | Claimed([@eezcjkr](https://github.com/eezcjkr)) | @johba |
 | 22 | [Add gas metering to solEVM](https://github.com/leapdao/solevm-truffle/issues/1) | R&D | 3.662Ξ | Claimed([@pinkiebell](https://github.com/pinkiebell)) | @troggy |
 | 23 | [Create Off-Chain Executor for solEVM](https://github.com/leapdao/solevm-truffle/issues/2) | R&D | 5.21Ξ | Claimed([@troggy](https://github.com/troggy)) | @johba |
 | 24  | [Create On-Chain Executor for solEVM](https://github.com/leapdao/solevm-truffle/issues/3) | R&D | 7.07Ξ | Claimed([@troggy](https://github.com/troggy)) | @johba|
-| 19  | [Exit Market Maker](https://github.com/leapdao/leap-contracts/issues/32) | R&D | 720 DAI | Claimed([@eezcjkr](https://github.com/eezcjkr))  | @johba |
+| 19  | [Exit Market Maker](https://github.com/leapdao/leap-contracts/issues/32) | R&D | <nobr>720 DAI</nobr> | Claimed([@eezcjkr](https://github.com/eezcjkr))  | @johba |
 
 ## Rules
 
