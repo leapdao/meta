@@ -29,7 +29,6 @@
 | 36  | [Enable Veto for Governance](https://github.com/leapdao/token-utilities/issues/11) | General | <nobr>1300 DAI</nobr> | Assigned(@AnthonyAkentiev) | @jk |
 | 38  | [MerkleMine Contract, Backend and Frontend](https://github.com/leapdao/merkle-mine-client/issues/1) | General | <nobr>1800 DAI</nobr> | Assigned(@helge, @johba) | @kosta |
 | 39  | [Create Snapshot of Ethereum chain](https://github.com/leapdao/merkle-mine-client/issues/2) | General | <nobr>1350 DAI</nobr> | Assigned(@johba) | @kosta |
-| 37  | [Community page](https://github.com/leapdao/leapdao-website/issues/8) | General | <nobr>720 DAI</nobr> | Assigned (@johba) | @sunify |
 
 ## Drafts/Limbo
 
@@ -59,6 +58,7 @@
 | 23 | [Create Off-Chain Executor for solEVM](https://github.com/leapdao/solevm-truffle/issues/2) | R&D | 5.21Ξ | Claimed([@troggy](https://github.com/troggy)) | @johba |
 | 24  | [Create On-Chain Executor for solEVM](https://github.com/leapdao/solevm-truffle/issues/3) | R&D | 7.07Ξ | Claimed([@troggy](https://github.com/troggy)) | @johba|
 | 19  | [Exit Market Maker](https://github.com/leapdao/leap-contracts/issues/32) | R&D | <nobr>720 DAI</nobr> | Claimed([@eezcjkr](https://github.com/eezcjkr))  | @johba |
+| 37  | [Community page](https://github.com/leapdao/leapdao-website/issues/8) | General | <nobr>720 DAI</nobr> | Assigned (@johba) | @sunify |
 
 ## Rules
 
