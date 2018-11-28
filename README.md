@@ -35,6 +35,8 @@
 | #  | Title                                    | Circle      | Budget | Status   | Verifier |
 | -- | ---------------------------------------- | ----------- | ----------- | -------- | --- |
 | 12  | [JSON RPC Server V2](Bounty_012) | R&D | 1,<nobr>120 DAI</nobr> | In Question | @kosta |
+| 40  | [Minimal Viable Governance Contract](https://github.com/leapdao/governance-utilities/issues/12) | General | <nobr>1,912 DAI</nobr> | Draft |  |
+| 41  | [Minimal viable Governance Frontend](https://github.com/leapdao/governance-utilities/issues/13) | General | <nobr>732 DAI</nobr> | Draft | |
 
 
 ## Completed Bounties
