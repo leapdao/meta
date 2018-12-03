@@ -31,12 +31,9 @@
 | 40  | [Minimal Viable Governance Contract](https://github.com/leapdao/governance-utilities/issues/12) | General | <nobr>1,912 DAI</nobr> | Assigned(@johba) | @jk |
 | 41  | [Minimal viable Governance Frontend](https://github.com/leapdao/governance-utilities/issues/13) | General | <nobr>732 DAI</nobr> | Assigned(@johba) | @sunify |
 
-## Drafts/Limbo
+## New Bounty!
 
-| #  | Title                                    | Circle      | Budget | Status   | Verifier |
-| -- | ---------------------------------------- | ----------- | ----------- | -------- | --- |
-| 12  | [JSON RPC Server V2](Bounty_012) | R&D | 1,<nobr>120 DAI</nobr> | In Question | @kosta |
-| 35  | [Enable voting page for Governance](https://github.com/leapdao/token-utilities/issues/10) | General | <nobr>1180 DAI</nobr> | approved | @jk |
+Don't see the bounty you think is important?! just [open an issue](https://github.com/leapdao/leapdao-bounties/issues/new?title=New%20Bounty%20Title&labels%5B%5D=bounty&body=%20describe%20the%20bounty%20here.) to propose it. We will get back to you.
 
 ## Completed Bounties
 
