@@ -33,7 +33,7 @@
 
 ## New Bounty!
 
-Don't see the bounty you think is important?! just [open an issue](https://github.com/leapdao/leapdao-bounties/issues/new?title=New%20Bounty%20Titel&labels%5B%5D=bounty&body=%20describe%20the%20bounty%20here.) to propose it. We will get back to you.
+Don't see the bounty you think is important?! just [open an issue](https://github.com/leapdao/leapdao-bounties/issues/new?title=New%20Bounty%20Title&labels%5B%5D=bounty&body=%20describe%20the%20bounty%20here.) to propose it. We will get back to you.
 
 ## Completed Bounties
 
