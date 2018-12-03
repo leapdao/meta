@@ -36,7 +36,7 @@
 | #  | Title                                    | Circle      | Budget | Status   | Verifier |
 | -- | ---------------------------------------- | ----------- | ----------- | -------- | --- |
 | 12  | [JSON RPC Server V2](Bounty_012) | R&D | 1,<nobr>120 DAI</nobr> | In Question | @kosta |
-| 35  | [Enable voting page for Governance](https://github.com/leapdao/token-utilities/issues/10) | General | <nobr>1180 DAI</nobr> | approved | @jk |
+| 35  | [Enable voting page for Governance](https://github.com/leapdao/token-utilities/issues/10) | In Question | <nobr>1180 DAI</nobr> | approved | @jk |
 
 ## Completed Bounties
 
