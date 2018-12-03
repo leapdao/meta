@@ -24,8 +24,8 @@
 |   | [Enable Compact Stack Proofs For SolEVM](https://gitcoin.co/issue/leapdao/solEVM-enforcer/15/1761) | R&D | 3.7Ξ | Assigned(gitcoin)||
 |   | [Enable Compact Memory Proofs For SolEVM](https://gitcoin.co/issue/leapdao/solEVM-enforcer/17/1762) | R&D | 7.3Ξ | Approved |
 |   | [Commit To The Execution Path in Challenge Manager](https://gitcoin.co/issue/leapdao/solEVM-enforcer/20/1764) | R&D | 7.3Ξ | Approved | |
-| 33  | [Create Proposals Contract for Governance](https://github.com/leapdao/token-utilities/issues/8) | General | <nobr>560 DAI</nobr> | Assigned(@AnthonyAkentiev) | @jk |
-| 36  | [Enable Veto for Governance](https://github.com/leapdao/token-utilities/issues/11) | General | <nobr>1300 DAI</nobr> | Assigned(@AnthonyAkentiev) | @jk |
+| 33  | [Create Proposals Contract for Governance](https://github.com/leapdao/token-utilities/issues/8) | General | <nobr>560 DAI</nobr> | Assigned(@AnthonyAkentiev) | @troggy |
+| 36  | [Enable Veto for Governance](https://github.com/leapdao/token-utilities/issues/11) | General | <nobr>1300 DAI</nobr> | Assigned(@AnthonyAkentiev) | @troggy |
 | 38  | [MerkleMine Contract, Backend and Frontend](https://github.com/leapdao/merkle-mine-client/issues/1) | General | <nobr>1800 DAI</nobr> | Assigned(@helge, @johba) | @kosta |
 | 39  | [Create Snapshot of Ethereum chain](https://github.com/leapdao/merkle-mine-client/issues/2) | General | <nobr>1350 DAI</nobr> | Assigned(@johba) | @kosta |
 | 40  | [Minimal Viable Governance Contract](https://github.com/leapdao/governance-utilities/issues/12) | General | <nobr>1,912 DAI</nobr> | Assigned(@johba) | @jk |
