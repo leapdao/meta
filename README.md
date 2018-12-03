@@ -26,6 +26,8 @@
 | 39  | [Create Snapshot of Ethereum chain](https://github.com/leapdao/merkle-mine-client/issues/2) | <nobr>1350 DAI</nobr> | Assigned(@johba) | @kosta |
 | 25  | [Add State Hash function for solEVM](https://github.com/leapdao/solEVM-enforcer/issues/4) | 2.43Ξ | Assigned(@nanspro via Gitcoin) | @troggy |
 | 29  | [Run testnet with tendermint and split contracts](https://github.com/leapdao/leap-node/issues/90) | <nobr>945 DAI</nobr> | Assigned(@sunify) | @jk |
+| 45  | [SolEVM verifier](https://github.com/leapdao/leapdao-bounties/issues/33) | <nobr>1912 DAI</nobr> | Assigned(@peara) |  |
+
 
 ## New Bounty!
 
