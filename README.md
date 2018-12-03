@@ -11,7 +11,6 @@
 | 31  | [Verify that gas pricing is same in Solidity stepper and JS stepper](https://github.com/leapdao/solEVM-enforcer/issues/22) | R&D | <nobr>1440 DAI</nobr> | Approved | @kosta |
 | 32  | [Enable contract mocks for CALL OP-codes in solEVM](https://github.com/leapdao/solEVM-enforcer/issues/23) | R&D | <nobr>720 DAI</nobr> | Approved | @johba |
 | 34  | [Enable Confidence Vote for Governance](https://github.com/leapdao/token-utilities/issues/9) | General | <nobr>570 DAI</nobr> | Approved | @jk |
-| 35  | [Enable voting page for Governance](https://github.com/leapdao/token-utilities/issues/10) | General | <nobr>1180 DAI</nobr> | approved | @jk |
 
 ## Bounties in Progress
 
@@ -37,7 +36,7 @@
 | #  | Title                                    | Circle      | Budget | Status   | Verifier |
 | -- | ---------------------------------------- | ----------- | ----------- | -------- | --- |
 | 12  | [JSON RPC Server V2](Bounty_012) | R&D | 1,<nobr>120 DAI</nobr> | In Question | @kosta |
-
+| 35  | [Enable voting page for Governance](https://github.com/leapdao/token-utilities/issues/10) | General | <nobr>1180 DAI</nobr> | approved | @jk |
 
 ## Completed Bounties
 
