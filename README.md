@@ -11,6 +11,7 @@
 | 31  | [Verify that gas pricing is same in Solidity stepper and JS stepper](https://github.com/leapdao/solEVM-enforcer/issues/22) | R&D | <nobr>1440 DAI</nobr> | Approved | @kosta |
 | 32  | [Enable contract mocks for CALL OP-codes in solEVM](https://github.com/leapdao/solEVM-enforcer/issues/23) | R&D | <nobr>720 DAI</nobr> | Approved | @johba |
 | 34  | [Enable Confidence Vote for Governance](https://github.com/leapdao/token-utilities/issues/9) | General | <nobr>570 DAI</nobr> | Approved | @jk |
+| 43  | [Integration Tests](https://github.com/leapdao/leapdao-bounties/issues/26) | General | <nobr>900 DAI</nobr> | Approved | @troggy |
 
 ## Bounties in Progress
 
@@ -30,6 +31,7 @@
 | 39  | [Create Snapshot of Ethereum chain](https://github.com/leapdao/merkle-mine-client/issues/2) | General | <nobr>1350 DAI</nobr> | Assigned(@johba) | @kosta |
 | 40  | [Minimal Viable Governance Contract](https://github.com/leapdao/governance-utilities/issues/12) | General | <nobr>1,912 DAI</nobr> | Assigned(@johba) | @jk |
 | 41  | [Minimal viable Governance Frontend](https://github.com/leapdao/governance-utilities/issues/13) | General | <nobr>732 DAI</nobr> | Assigned(@johba) | @sunify |
+| 42  | [Integration Testing Utility](https://github.com/leapdao/leapdao-bounties/issues/25) | General | <nobr>1,406 DAI</nobr> | Assigned(@jk) | @troggy |
 
 ## New Bounty!
 
