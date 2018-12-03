@@ -8,7 +8,6 @@
 | 30  | [Create a stepper implementation in JS](https://github.com/leapdao/solEVM-enforcer/issues/21) | <nobr>2880 DAI</nobr> | Approved | @kosta |
 | 31  | [Verify that gas pricing is same in Solidity stepper and JS stepper](https://github.com/leapdao/solEVM-enforcer/issues/22) | <nobr>1440 DAI</nobr> | Approved | @kosta |
 | 32  | [Enable contract mocks for CALL OP-codes in solEVM](https://github.com/leapdao/solEVM-enforcer/issues/23) | <nobr>720 DAI</nobr> | Approved | @johba |
-| 34  | [Enable Confidence Vote for Governance](https://github.com/leapdao/token-utilities/issues/9) | <nobr>570 DAI</nobr> | Approved | @jk |
 | 43  | [Integration Tests](https://github.com/leapdao/leapdao-bounties/issues/26) | <nobr>900 DAI</nobr> | Approved | @troggy |
 
 ## Bounties in Progress
@@ -27,6 +26,12 @@
 | 29  | [Run testnet with tendermint and split contracts](https://github.com/leapdao/leap-node/issues/90) | <nobr>945 DAI</nobr> | Assigned(@sunify) | @jk |
 | 45  | [SolEVM verifier](https://github.com/leapdao/leapdao-bounties/issues/33) | <nobr>1912 DAI</nobr> | Assigned(@peara) |  |
 
+## Bounties on hold
+
+| #  | Title                                    | Budget | Status   | Verifier |
+| -- | ---------------------------------------- | ----------- | -------- | --- |
+| 44  | [Governance with Voting UI](https://github.com/leapdao/bridge-ui/issues/60)  | General | <nobr>900 DAI</nobr> | on-hold |  |
+| 34  | [Enable Confidence Vote for Governance](https://github.com/leapdao/token-utilities/issues/9) | <nobr>570 DAI</nobr> | on-hold | @jk |
 
 ## New Bounty!
 
