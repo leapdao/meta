@@ -5,7 +5,6 @@
 
 | #  | Title                                    | Circle      | Budget | Status   | Verifier |
 | -- | ---------------------------------------- | ----------- | ----------- | -------- | --- |
-| 25  | [Add State Hash function for solEVM](https://github.com/leapdao/solEVM-enforcer/issues/4) | R&D | 2.43Ξ | Approved | @troggy |
 | 29  | [Run testnet with tendermint and split contracts](https://github.com/leapdao/leap-node/issues/90) | General | <nobr>945 DAI</nobr> | Approved | @jk |
 | 30  | [Create a stepper implementation in JS](https://github.com/leapdao/solEVM-enforcer/issues/21) | R&D | <nobr>2880 DAI</nobr> | Approved | @kosta |
 | 31  | [Verify that gas pricing is same in Solidity stepper and JS stepper](https://github.com/leapdao/solEVM-enforcer/issues/22) | R&D | <nobr>1440 DAI</nobr> | Approved | @kosta |
@@ -32,6 +31,7 @@
 | 40  | [Minimal Viable Governance Contract](https://github.com/leapdao/governance-utilities/issues/12) | General | <nobr>1,912 DAI</nobr> | Assigned(@johba) | @jk |
 | 41  | [Minimal viable Governance Frontend](https://github.com/leapdao/governance-utilities/issues/13) | General | <nobr>732 DAI</nobr> | Assigned(@johba) | @sunify |
 | 42  | [Integration Testing Utility](https://github.com/leapdao/leapdao-bounties/issues/25) | General | <nobr>1,406 DAI</nobr> | Assigned(@jk) | @troggy |
+| 25  | [Add State Hash function for solEVM](https://github.com/leapdao/solEVM-enforcer/issues/4) | R&D | 2.43Ξ | Assigned(@nanspro via Gitcoin) | @troggy |
 
 ## New Bounty!
 
