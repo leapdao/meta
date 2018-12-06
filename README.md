@@ -5,7 +5,6 @@
 
 | #  | Title                                    | Budget | Status   | Verifier |
 | -- | ---------------------------------------- | ----------- | -------- | --- |
-| 29  | [Run testnet with tendermint and split contracts](https://github.com/leapdao/leap-node/issues/90) | <nobr>945 DAI</nobr> | Approved | @jk |
 | 30  | [Create a stepper implementation in JS](https://github.com/leapdao/solEVM-enforcer/issues/21) | <nobr>2880 DAI</nobr> | Approved | @kosta |
 | 31  | [Verify that gas pricing is same in Solidity stepper and JS stepper](https://github.com/leapdao/solEVM-enforcer/issues/22) | <nobr>1440 DAI</nobr> | Approved | @kosta |
 | 32  | [Enable contract mocks for CALL OP-codes in solEVM](https://github.com/leapdao/solEVM-enforcer/issues/23) | <nobr>720 DAI</nobr> | Approved | @johba |
@@ -26,6 +25,7 @@
 | 38  | [MerkleMine Contract, Backend and Frontend](https://github.com/leapdao/merkle-mine-client/issues/1) | <nobr>1800 DAI</nobr> | Assigned(@helge, @johba) | @kosta |
 | 39  | [Create Snapshot of Ethereum chain](https://github.com/leapdao/merkle-mine-client/issues/2) | <nobr>1350 DAI</nobr> | Assigned(@johba) | @kosta |
 | 25  | [Add State Hash function for solEVM](https://github.com/leapdao/solEVM-enforcer/issues/4) | 2.43Ξ | Assigned(@nanspro via Gitcoin) | @troggy |
+| 29  | [Run testnet with tendermint and split contracts](https://github.com/leapdao/leap-node/issues/90) | <nobr>945 DAI</nobr> | Assigned(@sunify) | @jk |
 
 ## New Bounty!
 
