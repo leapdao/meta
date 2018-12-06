@@ -20,7 +20,6 @@
 | 26  | [Upgradeable Bridge Contracts](https://github.com/leapdao/leap-contracts/issues/66) | General | <nobr>1440 DAI</nobr> | Assigned(@eshavkun) | @eezcjkr |
 | 27  | [Refactor LeapBridge into Bridge and Operator](https://github.com/leapdao/leap-contracts/issues/65) | General | <nobr>1530 DAI</nobr> | Assigned(@eezcjkr) | @sunify |
 | 28  | [Pull Tendermint Upstream](https://github.com/leapdao/leap-node/issues/85) | General | <nobr>450 DAI</nobr> | Assigned(@sunify) | @johba |
-|   | [Enable Compact LOG Proof For SolEVM](https://gitcoin.co/issue/leapdao/solEVM-enforcer/19/1763) | R&D | 3.7Ξ | Assigned(gitcoin) | |
 |   | [Enable Compact Stack Proofs For SolEVM](https://gitcoin.co/issue/leapdao/solEVM-enforcer/15/1761) | R&D | 3.7Ξ | Assigned(gitcoin)||
 |   | [Enable Compact Memory Proofs For SolEVM](https://gitcoin.co/issue/leapdao/solEVM-enforcer/17/1762) | R&D | 7.3Ξ | Approved |
 |   | [Commit To The Execution Path in Challenge Manager](https://gitcoin.co/issue/leapdao/solEVM-enforcer/20/1764) | R&D | 7.3Ξ | Approved | |
@@ -57,9 +56,9 @@ Don't see the bounty you think is important?! just [open an issue](https://githu
 | 24  | [Create On-Chain Executor for solEVM](https://github.com/leapdao/solevm-truffle/issues/3) | R&D | 7.07Ξ | Claimed([@troggy](https://github.com/troggy)) | @johba|
 | 19  | [Exit Market Maker](https://github.com/leapdao/leap-contracts/issues/32) | R&D | <nobr>720 DAI</nobr> | Claimed([@eezcjkr](https://github.com/eezcjkr))  | @johba |
 | 37  | [Community page](https://github.com/leapdao/leapdao-website/issues/8) | General | <nobr>720 DAI</nobr> | Assigned (@johba) | @sunify |
+|   | [Enable Compact LOG Proof For SolEVM](https://gitcoin.co/issue/leapdao/solEVM-enforcer/19/1763) | R&D | 3.7Ξ | Claimed(@pinkebell via gitcoin) | @troggy |
 | 40  | [Minimal Viable Governance Contract](https://github.com/leapdao/governance-utilities/issues/12) | General | <nobr>1,326 DAI</nobr> | Claimed(@johba) | @jk |
 | 41  | [Minimal viable Governance Frontend](https://github.com/leapdao/governance-utilities/issues/13) | General | <nobr>1,326 DAI</nobr> | Claimed(@troggy) | @sunify |
-
 
 ## Rules
 
