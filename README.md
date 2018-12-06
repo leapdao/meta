@@ -27,8 +27,6 @@
 | 36  | [Enable Veto for Governance](https://github.com/leapdao/token-utilities/issues/11) | General | <nobr>1300 DAI</nobr> | Assigned(@AnthonyAkentiev) | @troggy |
 | 38  | [MerkleMine Contract, Backend and Frontend](https://github.com/leapdao/merkle-mine-client/issues/1) | General | <nobr>1800 DAI</nobr> | Assigned(@helge, @johba) | @kosta |
 | 39  | [Create Snapshot of Ethereum chain](https://github.com/leapdao/merkle-mine-client/issues/2) | General | <nobr>1350 DAI</nobr> | Assigned(@johba) | @kosta |
-| 40  | [Minimal Viable Governance Contract](https://github.com/leapdao/governance-utilities/issues/12) | General | <nobr>1,912 DAI</nobr> | Assigned(@johba) | @jk |
-| 41  | [Minimal viable Governance Frontend](https://github.com/leapdao/governance-utilities/issues/13) | General | <nobr>732 DAI</nobr> | Assigned(@johba) | @sunify |
 | 42  | [Integration Testing Utility](https://github.com/leapdao/leapdao-bounties/issues/25) | General | <nobr>1,406 DAI</nobr> | Assigned(@jk) | @troggy |
 | 25  | [Add State Hash function for solEVM](https://github.com/leapdao/solEVM-enforcer/issues/4) | R&D | 2.43Ξ | Assigned(@nanspro via Gitcoin) | @troggy |
 
@@ -59,6 +57,8 @@ Don't see the bounty you think is important?! just [open an issue](https://githu
 | 19  | [Exit Market Maker](https://github.com/leapdao/leap-contracts/issues/32) | R&D | <nobr>720 DAI</nobr> | Claimed([@eezcjkr](https://github.com/eezcjkr))  | @johba |
 | 37  | [Community page](https://github.com/leapdao/leapdao-website/issues/8) | General | <nobr>720 DAI</nobr> | Assigned (@johba) | @sunify |
 |   | [Enable Compact LOG Proof For SolEVM](https://gitcoin.co/issue/leapdao/solEVM-enforcer/19/1763) | R&D | 3.7Ξ | Claimed(@pinkebell via gitcoin) | @troggy |
+| 40  | [Minimal Viable Governance Contract](https://github.com/leapdao/governance-utilities/issues/12) | General | <nobr>1,326 DAI</nobr> | Claimed(@johba) | @jk |
+| 41  | [Minimal viable Governance Frontend](https://github.com/leapdao/governance-utilities/issues/13) | General | <nobr>1,326 DAI</nobr> | Claimed(@troggy) | @sunify |
 
 ## Rules
 
