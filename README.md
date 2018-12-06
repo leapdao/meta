@@ -18,7 +18,6 @@
 | -- | ---------------------------------------- | ----------- | -------- | --- |
 | 8  | [Transform MinVM into MoreVP Plasma](https://github.com/leapdao/leap-contracts/issues/21) |  <nobr>1500 DAI</nobr> | Assigned(@kosta) | @johba |
 | 26  | [Upgradeable Bridge Contracts](https://github.com/leapdao/leap-contracts/issues/66) | <nobr>1440 DAI</nobr> | Assigned(@eshavkun) | @eezcjkr |
-| 27  | [Refactor LeapBridge into Bridge and Operator](https://github.com/leapdao/leap-contracts/issues/65) | <nobr>1530 DAI</nobr> | Assigned(@eezcjkr) | @sunify |
 |   | [Enable Compact Stack Proofs For SolEVM](https://gitcoin.co/issue/leapdao/solEVM-enforcer/15/1761) | 3.7Ξ | Assigned(gitcoin)||
 |   | [Enable Compact Memory Proofs For SolEVM](https://gitcoin.co/issue/leapdao/solEVM-enforcer/17/1762) | 7.3Ξ | Approved |
 |   | [Commit To The Execution Path in Challenge Manager](https://gitcoin.co/issue/leapdao/solEVM-enforcer/20/1764) | 7.3Ξ | Approved | |
@@ -26,7 +25,6 @@
 | 36  | [Enable Veto for Governance](https://github.com/leapdao/token-utilities/issues/11) | <nobr>1300 DAI</nobr> | Assigned(@AnthonyAkentiev) | @troggy |
 | 38  | [MerkleMine Contract, Backend and Frontend](https://github.com/leapdao/merkle-mine-client/issues/1) | <nobr>1800 DAI</nobr> | Assigned(@helge, @johba) | @kosta |
 | 39  | [Create Snapshot of Ethereum chain](https://github.com/leapdao/merkle-mine-client/issues/2) | <nobr>1350 DAI</nobr> | Assigned(@johba) | @kosta |
-| 42  | [Integration Testing Utility](https://github.com/leapdao/leapdao-bounties/issues/25) | <nobr>1,406 DAI</nobr> | Assigned(@jk) | @troggy |
 | 25  | [Add State Hash function for solEVM](https://github.com/leapdao/solEVM-enforcer/issues/4) | 2.43Ξ | Assigned(@nanspro via Gitcoin) | @troggy |
 
 ## New Bounty!
@@ -54,11 +52,13 @@ Don't see the bounty you think is important?! just [open an issue](https://githu
 | 23 | [Create Off-Chain Executor for solEVM](https://github.com/leapdao/solevm-truffle/issues/2) | 5.21Ξ | Claimed([@troggy](https://github.com/troggy)) | @johba |
 | 24  | [Create On-Chain Executor for solEVM](https://github.com/leapdao/solevm-truffle/issues/3) | 7.07Ξ | Claimed([@troggy](https://github.com/troggy)) | @johba|
 | 19  | [Exit Market Maker](https://github.com/leapdao/leap-contracts/issues/32) | <nobr>720 DAI</nobr> | Claimed([@eezcjkr](https://github.com/eezcjkr))  | @johba |
-| 37  | [Community page](https://github.com/leapdao/leapdao-website/issues/8) | <nobr>720 DAI</nobr> | Assigned (@johba) | @sunify |
-| 40  | [Minimal Viable Governance Contract](https://github.com/leapdao/governance-utilities/issues/12) | <nobr>1,912 DAI</nobr> | Assigned(@johba) | @jk |
+| 37  | [Community page](https://github.com/leapdao/leapdao-website/issues/8) | <nobr>720 DAI</nobr> | Claimed(@johba) | @sunify |
+| 40  | [Minimal Viable Governance Contract](https://github.com/leapdao/governance-utilities/issues/12) | <nobr>1,912 DAI</nobr> | Claimed(@johba) | @jk |
 | 41  | [Minimal viable Governance Frontend](https://github.com/leapdao/governance-utilities/issues/13) | <nobr>732 DAI</nobr> | Assigned(@johba) | @sunify |
-| 28  | [Pull Tendermint Upstream](https://github.com/leapdao/leap-node/issues/85) | <nobr>450 DAI</nobr> | Assigned(@sunify) | @johba |
+| 28  | [Pull Tendermint Upstream](https://github.com/leapdao/leap-node/issues/85) | <nobr>450 DAI</nobr> | Claimed(@sunify) | @johba |
 |   | [Enable Compact LOG Proof For SolEVM](https://gitcoin.co/issue/leapdao/solEVM-enforcer/19/1763) | 3.7Ξ | Claimed(@pinkebell via gitcoin) | @troggy |
+| 27  | [Refactor LeapBridge into Bridge and Operator](https://github.com/leapdao/leap-contracts/issues/65) | <nobr>1530 DAI</nobr> | Claimed(@eezcjkr) | @sunify |
+| 42  | [Integration Testing Utility](https://github.com/leapdao/leapdao-bounties/issues/25) | <nobr>1,406 DAI</nobr> | Claimed(@jk) | @sunify |
 
 ## Rules
 
