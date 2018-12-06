@@ -19,8 +19,6 @@
 | 8  | [Transform MinVM into MoreVP Plasma](https://github.com/leapdao/leap-contracts/issues/21) |  <nobr>1500 DAI</nobr> | Assigned(@kosta) | @johba |
 | 26  | [Upgradeable Bridge Contracts](https://github.com/leapdao/leap-contracts/issues/66) | <nobr>1440 DAI</nobr> | Assigned(@eshavkun) | @eezcjkr |
 | 27  | [Refactor LeapBridge into Bridge and Operator](https://github.com/leapdao/leap-contracts/issues/65) | <nobr>1530 DAI</nobr> | Assigned(@eezcjkr) | @sunify |
-| 28  | [Pull Tendermint Upstream](https://github.com/leapdao/leap-node/issues/85) | <nobr>450 DAI</nobr> | Assigned(@sunify) | @johba |
-|   | [Enable Compact LOG Proof For SolEVM](https://gitcoin.co/issue/leapdao/solEVM-enforcer/19/1763) | 3.7Ξ | Assigned(gitcoin) | |
 |   | [Enable Compact Stack Proofs For SolEVM](https://gitcoin.co/issue/leapdao/solEVM-enforcer/15/1761) | 3.7Ξ | Assigned(gitcoin)||
 |   | [Enable Compact Memory Proofs For SolEVM](https://gitcoin.co/issue/leapdao/solEVM-enforcer/17/1762) | 7.3Ξ | Approved |
 |   | [Commit To The Execution Path in Challenge Manager](https://gitcoin.co/issue/leapdao/solEVM-enforcer/20/1764) | 7.3Ξ | Approved | |
@@ -28,8 +26,6 @@
 | 36  | [Enable Veto for Governance](https://github.com/leapdao/token-utilities/issues/11) | <nobr>1300 DAI</nobr> | Assigned(@AnthonyAkentiev) | @troggy |
 | 38  | [MerkleMine Contract, Backend and Frontend](https://github.com/leapdao/merkle-mine-client/issues/1) | <nobr>1800 DAI</nobr> | Assigned(@helge, @johba) | @kosta |
 | 39  | [Create Snapshot of Ethereum chain](https://github.com/leapdao/merkle-mine-client/issues/2) | <nobr>1350 DAI</nobr> | Assigned(@johba) | @kosta |
-| 40  | [Minimal Viable Governance Contract](https://github.com/leapdao/governance-utilities/issues/12) | <nobr>1,912 DAI</nobr> | Assigned(@johba) | @jk |
-| 41  | [Minimal viable Governance Frontend](https://github.com/leapdao/governance-utilities/issues/13) | <nobr>732 DAI</nobr> | Assigned(@johba) | @sunify |
 | 42  | [Integration Testing Utility](https://github.com/leapdao/leapdao-bounties/issues/25) | <nobr>1,406 DAI</nobr> | Assigned(@jk) | @troggy |
 | 25  | [Add State Hash function for solEVM](https://github.com/leapdao/solEVM-enforcer/issues/4) | 2.43Ξ | Assigned(@nanspro via Gitcoin) | @troggy |
 
@@ -43,9 +39,9 @@ Don't see the bounty you think is important?! just [open an issue](https://githu
 | -- | ---------------------------------------- | ----------- | -------- | --- |
 | 1  | [Plasma Node](Bounty_001)    | 1,<nobr>360 DAI</nobr> | Claimed([@sunify](https://github.com/@sunify))  | @troggy |
 | 3  | [Upgradable PSC Token implementation](Bounty_003) | 1,<nobr>500 DAI</nobr>  |  Claimed ( @mayank )   | @johba |
-| 5  | [Plasma Consensus Rules](https://github.com/leapdao/leap-node/issues/9)                | 1,<nobr>200 DAI</nobr> | Assigned([@sunify](https://github.com/@sunify) , [@johannbarbie](https://github.com/@johannbarbie)) | @troggy |
-| 6  | [JSON RPC Server V1](https://github.com/leapdao/leap-node/issues/10)                | <nobr>960 DAI</nobr> | Claimed([@troggy](https://github.com/@troggy)) | [@Koroqe](https://github.com/@Koroqe)|
-| 7  | [Complete Primitive Data Structures in Parsec Lib](Bounty_007) | <nobr>960 DAI</nobr> | Claimed([@troggy](https://github.com/@troggy), [@johannbarbie](https://github.com/@johannbarbie)) | @sunify |
+| 5  | [Plasma Consensus Rules](https://github.com/leapdao/leap-node/issues/9)                        | 1,<nobr>200 DAI</nobr> | Assigned([@sunify](https://github.com/@sunify) , [@johannbarbie](https://github.com/@johannbarbie)) | @troggy |
+| 6  | [JSON RPC Server V1](https://github.com/leapdao/leap-node/issues/10)                   | <nobr>960 DAI</nobr> | Claimed([@troggy](https://github.com/@troggy)) | [@Koroqe](https://github.com/@Koroqe)|
+| 7  | [Complete Primitive Data Structures in Parsec Lib](Bounty_007)    | <nobr>960 DAI</nobr> | Claimed([@troggy](https://github.com/@troggy), [@johannbarbie](https://github.com/@johannbarbie)) | @sunify |
 | 9  | [Set up Testnet](https://github.com/leapdao/leap-node/issues/12) |  <nobr>900 DAI</nobr> | Claimed([@sunify](https://github.com/sunify), [@johannbarbie](https://github.com/johannbarbie)) | @troggy |
 | 10  | [Project Alice - Ethereum Testnet](https://github.com/leapdao/project-alice/issues/1) |  1,<nobr>440 DAI</nobr> | Claimed([@maxkudla](https://github.com/@maxkudla)) | @sunify |
 | 11  | [Project Alice - Parsec Testnet](Bounty_011) |  <nobr>700 DAI</nobr> | Claimed([@sunify](https://github.com/@sunify)) | @troggy |
@@ -59,6 +55,10 @@ Don't see the bounty you think is important?! just [open an issue](https://githu
 | 24  | [Create On-Chain Executor for solEVM](https://github.com/leapdao/solevm-truffle/issues/3) | 7.07Ξ | Claimed([@troggy](https://github.com/troggy)) | @johba|
 | 19  | [Exit Market Maker](https://github.com/leapdao/leap-contracts/issues/32) | <nobr>720 DAI</nobr> | Claimed([@eezcjkr](https://github.com/eezcjkr))  | @johba |
 | 37  | [Community page](https://github.com/leapdao/leapdao-website/issues/8) | <nobr>720 DAI</nobr> | Assigned (@johba) | @sunify |
+| 40  | [Minimal Viable Governance Contract](https://github.com/leapdao/governance-utilities/issues/12) | <nobr>1,912 DAI</nobr> | Assigned(@johba) | @jk |
+| 41  | [Minimal viable Governance Frontend](https://github.com/leapdao/governance-utilities/issues/13) | <nobr>732 DAI</nobr> | Assigned(@johba) | @sunify |
+| 28  | [Pull Tendermint Upstream](https://github.com/leapdao/leap-node/issues/85) | <nobr>450 DAI</nobr> | Assigned(@sunify) | @johba |
+|   | [Enable Compact LOG Proof For SolEVM](https://gitcoin.co/issue/leapdao/solEVM-enforcer/19/1763) | 3.7Ξ | Claimed(@pinkebell via gitcoin) | @troggy |
 
 ## Rules
 
