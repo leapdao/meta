@@ -10,6 +10,8 @@
 | 32  | [Enable contract mocks for CALL OP-codes in solEVM](https://github.com/leapdao/solEVM-enforcer/issues/23) | <nobr>720 DAI</nobr> | Approved | @johba |
 | 34  | [Enable Confidence Vote for Governance](https://github.com/leapdao/token-utilities/issues/9) | <nobr>570 DAI</nobr> | Approved | @jk |
 | 43  | [Integration Tests](https://github.com/leapdao/leapdao-bounties/issues/26) | <nobr>900 DAI</nobr> | Approved | @troggy |
+|  | [Exit Market Taker](https://github.com/leapdao/bridge-ui/issues/77) | <nobr>? DAI</nobr> | Approved | |
+|  | [Include deposit in a period](https://github.com/leapdao/leap-contracts/issues/72) | <nobr>495 DAI</nobr> | Approved | |
 
 ## Bounties in Progress
 
