@@ -25,7 +25,7 @@
 | 45  | [SolEVM verifier](https://github.com/leapdao/leapdao-bounties/issues/33) | <nobr>1912 DAI</nobr> | Assigned(@peara) |  |
 |  | [Exit Market Taker](https://github.com/leapdao/bridge-ui/issues/77) | <nobr>495 DAI</nobr> | Assigned(@jk) | |
 | 30  | [Create a stepper implementation in JS](https://github.com/leapdao/solEVM-enforcer/issues/21) | <nobr>2880 DAI</nobr> | Assigned(@pinkiebell) | @troggy |
-| 31  | [Verify that gas pricing is same in Solidity stepper and JS stepper](https://github.com/leapdao/solEVM-enforcer/issues/22) | <nobr>1440 DAI</nobr> | Assigned(@pinkiebell) | @troggy |
+| 31  | [Verify that gas pricing is same in Solidity stepper and JS stepper](https://github.com/leapdao/solEVM-enforcer/issues/22) | <nobr>450 DAI</nobr> | Assigned(@pinkiebell) | @troggy |
 |  | [Include deposit in a period](https://github.com/leapdao/leap-contracts/issues/72) | <nobr>570 DAI</nobr> | Assigned(@troggy) | @jk |
 
 ## Bounties on hold
