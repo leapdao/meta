@@ -9,6 +9,7 @@
 | 31  | [Verify that gas pricing is same in Solidity stepper and JS stepper](https://github.com/leapdao/solEVM-enforcer/issues/22) | <nobr>1440 DAI</nobr> | Approved | @kosta |
 | 32  | [Enable contract mocks for CALL OP-codes in solEVM](https://github.com/leapdao/solEVM-enforcer/issues/23) | <nobr>720 DAI</nobr> | Approved | @johba |
 | 43  | [Integration Tests](https://github.com/leapdao/leapdao-bounties/issues/26) | <nobr>900 DAI</nobr> | Approved | @troggy |
+|  | [Include deposit in a period](https://github.com/leapdao/leap-contracts/issues/72) | <nobr>570 DAI</nobr> | Approved | |
 
 ## Bounties in Progress
 
@@ -25,6 +26,7 @@
 | 25  | [Add State Hash function for solEVM](https://github.com/leapdao/solEVM-enforcer/issues/4) | 2.43Ξ | Assigned(@nanspro via Gitcoin) | @troggy |
 | 29  | [Run testnet with tendermint and split contracts](https://github.com/leapdao/leap-node/issues/90) | <nobr>945 DAI</nobr> | Assigned(@sunify) | @jk |
 | 45  | [SolEVM verifier](https://github.com/leapdao/leapdao-bounties/issues/33) | <nobr>1912 DAI</nobr> | Assigned(@peara) |  |
+|  | [Exit Market Taker](https://github.com/leapdao/bridge-ui/issues/77) | <nobr>495 DAI</nobr> | Assigned(@jk) | |
 
 ## Bounties on hold
 
