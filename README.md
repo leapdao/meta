@@ -32,7 +32,7 @@
 
 | #  | Title                                    | Budget | Status   | Verifier |
 | -- | ---------------------------------------- | ----------- | -------- | --- |
-| 44  | [Governance with Voting UI](https://github.com/leapdao/bridge-ui/issues/60)  | General | <nobr>900 DAI</nobr> | on-hold |  |
+| 44  | [Governance with Voting UI](https://github.com/leapdao/bridge-ui/issues/60) | <nobr>900 DAI</nobr> | on-hold |  |
 | 34  | [Enable Confidence Vote for Governance](https://github.com/leapdao/token-utilities/issues/9) | <nobr>570 DAI</nobr> | on-hold | @jk |
 
 ## New Bounty!
