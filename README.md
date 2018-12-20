@@ -5,28 +5,28 @@
 
 | #  | Title                                    | Budget | Status   | Verifier |
 | -- | ---------------------------------------- | ----------- | -------- | --- |
-| 30  | [Create a stepper implementation in JS](https://github.com/leapdao/solEVM-enforcer/issues/21) | <nobr>2880 DAI</nobr> | Approved | @kosta |
-| 31  | [Verify that gas pricing is same in Solidity stepper and JS stepper](https://github.com/leapdao/solEVM-enforcer/issues/22) | <nobr>1440 DAI</nobr> | Approved | @kosta |
 | 32  | [Enable contract mocks for CALL OP-codes in solEVM](https://github.com/leapdao/solEVM-enforcer/issues/23) | <nobr>720 DAI</nobr> | Approved | @johba |
 | 43  | [Integration Tests](https://github.com/leapdao/leapdao-bounties/issues/26) | <nobr>900 DAI</nobr> | Approved | @troggy |
-|  | [Include deposit in a period](https://github.com/leapdao/leap-contracts/issues/72) | <nobr>570 DAI</nobr> | Approved | |
 
 ## Bounties in Progress
 
 | #  | Title                                    | Budget | Status   | Verifier |
 | -- | ---------------------------------------- | ----------- | -------- | --- |
-| 8  | [Transform MinVM into MoreVP Plasma](https://github.com/leapdao/leap-contracts/issues/21) |  <nobr>1500 DAI</nobr> | Assigned(@kosta) | @johba |
-|   | [Enable Compact Stack Proofs For SolEVM](https://gitcoin.co/issue/leapdao/solEVM-enforcer/15/1761) | 3.7Ξ | Assigned(gitcoin)||
-|   | [Enable Compact Memory Proofs For SolEVM](https://gitcoin.co/issue/leapdao/solEVM-enforcer/17/1762) | 7.3Ξ | Approved |
-|   | [Commit To The Execution Path in Challenge Manager](https://gitcoin.co/issue/leapdao/solEVM-enforcer/20/1764) | 7.3Ξ | Approved | |
+| 8  | [Transform MinVM into MoreVP Plasma](https://github.com/leapdao/leap-contracts/issues/21) |  <nobr>1500 DAI</nobr> | Assigned(@troggy) | @johba |
+|   | [Enable Compact Stack Proofs For SolEVM](https://gitcoin.co/issue/leapdao/solEVM-enforcer/15/1761) | 3.7Ξ | Assigned(@peara)||
+|   | [Enable Compact Memory Proofs For SolEVM](https://gitcoin.co/issue/leapdao/solEVM-enforcer/17/1762) | 7.3Ξ | Assigned(@vyomshm) |
+|   | [Commit To The Execution Path in Challenge Manager](https://gitcoin.co/issue/leapdao/solEVM-enforcer/20/1764) | 7.3Ξ | Assigned(@pinkiebell) | |
 | 33  | [Create Proposals Contract for Governance](https://github.com/leapdao/token-utilities/issues/8) | <nobr>560 DAI</nobr> | Assigned(@AnthonyAkentiev) | @troggy |
 | 36  | [Enable Veto for Governance](https://github.com/leapdao/token-utilities/issues/11) | <nobr>1300 DAI</nobr> | Assigned(@AnthonyAkentiev) | @troggy |
-| 38  | [MerkleMine Contract, Backend and Frontend](https://github.com/leapdao/merkle-mine-client/issues/1) | <nobr>1800 DAI</nobr> | Assigned(@helge, @johba) | @kosta |
-| 39  | [Create Snapshot of Ethereum chain](https://github.com/leapdao/merkle-mine-client/issues/2) | <nobr>1350 DAI</nobr> | Assigned(@johba) | @kosta |
+| 38  | [MerkleMine Contract, Backend and Frontend](https://github.com/leapdao/merkle-mine-client/issues/1) | <nobr>1800 DAI</nobr> | Assigned(@helge, @johba) | @troggy |
+| 39  | [Create Snapshot of Ethereum chain](https://github.com/leapdao/merkle-mine-client/issues/2) | <nobr>1350 DAI</nobr> | Assigned(@johba) | @troggy |
 | 25  | [Add State Hash function for solEVM](https://github.com/leapdao/solEVM-enforcer/issues/4) | 2.43Ξ | Assigned(@nanspro via Gitcoin) | @troggy |
 | 29  | [Run testnet with tendermint and split contracts](https://github.com/leapdao/leap-node/issues/90) | <nobr>945 DAI</nobr> | Assigned(@sunify) | @jk |
 | 45  | [SolEVM verifier](https://github.com/leapdao/leapdao-bounties/issues/33) | <nobr>1912 DAI</nobr> | Assigned(@peara) |  |
 |  | [Exit Market Taker](https://github.com/leapdao/bridge-ui/issues/77) | <nobr>495 DAI</nobr> | Assigned(@jk) | |
+| 30  | [Create a stepper implementation in JS](https://github.com/leapdao/solEVM-enforcer/issues/21) | <nobr>2880 DAI</nobr> | Assigned(@pinkiebell) | @troggy |
+| 31  | [Verify that gas pricing is same in Solidity stepper and JS stepper](https://github.com/leapdao/solEVM-enforcer/issues/22) | <nobr>1440 DAI</nobr> | Assigned(@pinkiebell) | @troggy |
+|  | [Include deposit in a period](https://github.com/leapdao/leap-contracts/issues/72) | <nobr>570 DAI</nobr> | Assigned(@troggy) | @jk |
 
 ## Bounties on hold
 
@@ -51,7 +51,7 @@ Don't see the bounty you think is important?! just [open an issue](https://githu
 | 9  | [Set up Testnet](https://github.com/leapdao/leap-node/issues/12) |  <nobr>900 DAI</nobr> | Claimed([@sunify](https://github.com/sunify), [@johannbarbie](https://github.com/johannbarbie)) | @troggy |
 | 10  | [Project Alice - Ethereum Testnet](https://github.com/leapdao/project-alice/issues/1) |  1,<nobr>440 DAI</nobr> | Claimed([@maxkudla](https://github.com/@maxkudla)) | @sunify |
 | 11  | [Project Alice - Parsec Testnet](Bounty_011) |  <nobr>700 DAI</nobr> | Claimed([@sunify](https://github.com/@sunify)) | @troggy |
-| 13  | [State-enabled scripting conditions for Plasma](https://docs.google.com/document/d/1vStTjqvqZGyiI5AVtpwCIMlHFnzC_4bbixsCfs27-M8) | 1,<nobr>500 DAI</nobr> | Claimed(@johannbarbie)  | @kosta |
+| 13  | [State-enabled scripting conditions for Plasma](https://docs.google.com/document/d/1vStTjqvqZGyiI5AVtpwCIMlHFnzC_4bbixsCfs27-M8) | 1,<nobr>500 DAI</nobr> | Claimed(@johannbarbie)  | @troggy |
 | 15  | [Create Gas Oracle](Bounty_015) | <nobr>400 DAI</nobr> | Claimed([@Koroqe](https://github.com/@Koroqe)) | @johba |
 | 16  | [PARSEC Block Explorer](https://github.com/leapdao/leap-general-circle/issues/35) |  <nobr>800 DAI</nobr> | Claimed([@eezcjkr](https://github.com/eezcjkr)) | @troggy |
 | 17  | [Project Bob - Multiple tokens](https://github.com/leapdao/project-alice/issues/14) | <nobr>480 DAI</nobr> | Claimed([@MaxKudla](https://github.com/MaxKudla)) | @sunify |
