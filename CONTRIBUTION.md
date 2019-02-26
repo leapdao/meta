@@ -58,7 +58,7 @@ The `<scope>` of the commit is optional and can be omitted. When used though, it
 
 ### Bounties
 
-1. Review the list of “Approved” bounties here: https://leapdao.org/bounties/
+1. Review the list of “Available” bounties on our [bounty board](https://github.com/orgs/leapdao/projects/6)
 2. Choose the bounty which you feel capable to deliver and which is not assigned yet (no assignee on Github issue)
 3. Leave a comment in the bounty issue that you would like to work on the bounty and get approval from bounty Proposer or Verifier.
 4. Start working on the issue
@@ -66,4 +66,4 @@ The `<scope>` of the commit is optional and can be omitted. When used though, it
    - should you have any questions, problems, suggestions or concerns, communicate them as a comment in the bounty issue.
 5. Once you think the bounty is complete (check against the Deliverables), leave a comment asking for review.
 6. Bounty completion is reviewed by Proposer and Verifier.
-7. If approved as completed, the bounty amount (denominated in DAI) is payed out in ETH at the current rate. Otherwise, you will be asked to make corrections.
+7. If approved as completed, the bounty amount is payed out in DAI. Otherwise, you will be asked to make corrections.
