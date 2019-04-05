@@ -10,13 +10,6 @@ const snapshot = './snapshot.csv';
 async function run() {
     const unspentsAll = await getBalancesAll(rpc);
     console.log(unspentsAll);
-    /*let balance;
-    unspentsAll.forEach(async(value, address) => {
-        balance = await getBalance(address);
-        if (String(balance) !== value) {
-            console.log(address, value, balance);
-        }
-    });*/
     
     const totalValue = [...unspentsAll].reduce((sum, balance) => {
         return JSBI.add(sum, JSBI.BigInt(balance[1])) }, JSBI.BigInt(0));
