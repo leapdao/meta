@@ -1,0 +1,13 @@
+{
+  "name": "migration",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "csv-parser": "^2.2.0",
+    "csv-writer": "^1.2.0",
+    "ethers": "^4.0.27",
+    "jsbi": "^2.0.5",
+    "leap-core": "^0.28.3"
+  }
+}
