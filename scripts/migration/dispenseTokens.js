@@ -26,16 +26,6 @@ async function run() {
             await sendFunds(dispenser, balances[i].Address, balances[i].Balance, rpc);
         }        
     });
-
-    /*fs.createReadStream(snapshot)  
-    .pipe(csv())
-    .on('data', async (row) => {
-        console.log('Dispensng', row.Balance, 'LEAP to', row.Address);
-        await sendFunds(dispenser, row.Address, row.Balance, rpc);
-    })
-    .on('end', () => {
-        console.log('Finished dispensing of the tokens');
-    });*/
 }
 
 run();

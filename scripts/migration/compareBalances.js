@@ -28,22 +28,6 @@ async function run() {
             }
         }        
     });  
-
-    /*fs.createReadStream(snapshot)  
-    .pipe(csv())
-    .on('data', (row) => {
-        console.log('Checking ballance of', row.Address);
-            getBalance(row.Address, rpc).then((balance) => {
-                if (String(balance) === row.Balance) {
-                    console.log('   OK');
-                } else {
-                    console.log('   Mismatch! Expected:', row.Balance, 'actual: ', String(balance));
-                }
-            })
-    })
-    .on('end', () => {
-        console.log('Finished checking balances');
-    });*/
 }
 
 run();
