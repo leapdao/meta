@@ -1,0 +1,12 @@
+# dotenv environment variables file
+.env
+
+#build
+handler.zip
+
+src/**/*.js
+src/**/*.js.map
+test/**/*.js
+test/**/*.js.map
+
+node_modules/
