@@ -1,4 +1,10 @@
 const {run} = require('runjs')
+const dotenv = require('dotenv');
+const path = require('path');
+
+dotenv.config({
+  path: path.resolve(process.cwd(), '../', '.env')
+});
 
 function invoke (functon = 'UtxoMetricsFunction', eventFile = null) {
   const dotenv = require('dotenv')
@@ -7,6 +13,7 @@ function invoke (functon = 'UtxoMetricsFunction', eventFile = null) {
   if (eventFile) {
     command += ` -e ${eventFile}`
   }
+  console.log(process.env.NODE_URL)
   run(
     command,
     {

@@ -6,7 +6,7 @@ import {
 import {Web3Service} from "./services/web3Service";
 
 export default async function handler(event: APIGatewayProxyEvent, context: Context, callback: APIGatewayProxyCallback): Promise<void> {
-    const service = new Web3Service('https://testnet-node.leapdao.org');
+    const service = new Web3Service(process.env.NODE_URL);
     const year = parseInt(event.queryStringParameters.year) || new Date().getFullYear();
     const month = parseInt(event.queryStringParameters.month) || new Date().getMonth();
     console.log({

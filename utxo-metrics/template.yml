@@ -18,3 +18,4 @@ Resources:
       Runtime: nodejs8.10
       Environment:
         Variables:
+          NODE_URL:
