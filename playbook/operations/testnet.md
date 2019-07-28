@@ -85,7 +85,11 @@ To setup a process do the following:
    Run `crontab -e` and add the following:
 
    ```sh
+   # Commit new data every 5 minutes
    */5 * * * * cd /home/ubuntu/.lotion && git add . && git commit -m 'Block height '`curl -s localhost:26659/status | jq .result.sync_info.latest_block_height | sed s/\"//g`
+
+   # Compact git repo once a day
+   0 8 * * * cd /home/ubuntu/.lotion && git gc --prune=now
    ```
 
 #### Monitoring
