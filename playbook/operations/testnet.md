@@ -78,18 +78,18 @@ To setup a process do the following:
    git init
    ```
 
-2. Setup a cron job to commit changes every 5 minutes.
+2. Setup a cron job to commit changes every 10 minutes.
 
    Install `jq` package: `sudo apt-get install jq`.
 
    Run `crontab -e` and add the following:
 
    ```sh
-   # Commit new data every 5 minutes
-   */5 * * * * cd /home/ubuntu/.lotion && git add . && git commit -m 'Block height '`curl -s localhost:26659/status | jq .result.sync_info.latest_block_height | sed s/\"//g`
+   # Commit new data every 10 minutes
+   */10 * * * * cd /home/ubuntu/.lotion && git add . && git commit -m 'Block height '`curl -s localhost:26659/status | jq .result.sync_info.latest_block_height | sed s/\"//g`
 
-   # Compact git repo once a day
-   0 8 * * * cd /home/ubuntu/.lotion && git gc --prune=now
+   # Compact git repo once a day leaving only 60 latest commits (10 hours worth of data)
+   0 8 * * * cd /home/ubuntu/.lotion && git rev-parse HEAD~60 > .git/shallow && git gc --prune=now
    ```
 
 #### Monitoring
