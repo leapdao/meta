@@ -30,7 +30,7 @@ Software produced by the circle is used Ecosystem Circle to connect to Leap Netw
 | ----------- | ---------- |
 | ✅ Transfer-only Plasma chain (Minimum Viable Plasma) | ✅ [Cryptoeconomic Aggregate Signatures](https://github.com/orgs/leapdao/projects/9) |
 | ✅ More Viable Plasma | 🔄 [All validators should be submitting periods](https://github.com/orgs/leapdao/projects/11) |
-| ✅ Spending Conditions (offchain execution) | ⬜️ [Validators' connectivity can be proven on plasma](https://github.com/orgs/leapdao/projects/12) |
+| ✅ Spending Conditions (offchain execution) | 🔄 [Validators' connectivity can be proven on plasma](https://github.com/orgs/leapdao/projects/12) |
 | ✅ SolEVM runtime (single instruction onchain execution) | 🔄 [Watchtowers to monitor CAS and Exits](https://github.com/orgs/leapdao/projects/16) |
 | ✅ NST PoC | 🔄 [Bonded validators can be slashed](https://github.com/orgs/leapdao/projects/13) |
 | ✅ SolEVM Enforcer (challenge game) | |
