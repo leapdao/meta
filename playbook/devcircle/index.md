@@ -35,7 +35,7 @@ Software produced by the circle is used Ecosystem Circle to connect to Leap Netw
 | ✅ NST PoC | 🔄 [Bonded validators can be slashed](https://github.com/orgs/leapdao/projects/13) |
 | ✅ SolEVM Enforcer (challenge game) | |
 | ⬜️ [Exitable spending conditions (aka "Metaverse")](https://github.com/orgs/leapdao/projects/14) | |
-| ⬜️ [Better spending conditions](https://github.com/orgs/leapdao/projects/17) | |
+| 🔄 [Better spending conditions](https://github.com/orgs/leapdao/projects/17) | |
 | ⬜️ [Exact onchain and offchain execution](https://github.com/orgs/leapdao/projects/15) | |
 | ... | ... |
 | ... more work ... | ... more work ... |
