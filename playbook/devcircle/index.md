@@ -4,6 +4,7 @@
 * [Current focus](#current-focus)
 * [Roadmap](#roadmap)
 * [What to work on](#what-to-work-on)
+* [Special Offers](#special-offers)
 
 ## Intro
 
@@ -47,3 +48,8 @@ Software produced by the circle is used Ecosystem Circle to connect to Leap Netw
 * 🌴 any non-assigned bounty tagged with `Status: Available` from the [Roadmap](#Roadmap) (click on the item to see the list). Those closer to the beggining of the list are better
 * 🐞 Something from the [list](https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+archived%3Afalse+user%3Aleapdao+label%3A%22Status%3A+Available%22). These will be paid on hourly basis and of second priority.
 * ⭐️ anything else you see as aligned with the Dev Circle purpose and focus but not reported on Github. Ask on Slack first.
+* 🍒 one of the [Special Offers](#special-offers)
+
+## Special offers
+
+- [Propose missing items for the Roadmap and get paid 100 DAI for each](https://hackmd.io/@troggy/leap-gardening-bounty). Effective till 01.01.2020. Budget left: 1900 DAI
