@@ -12,6 +12,11 @@ Bridge UI: https://testnet.leapdao.org
 
 Code version: [5.4.1](https://github.com/leapdao/leap-node/releases/tag/v5.4.1)
 
+Validator nodes:
+  
+- community node (operated by @troggy)
+- Evgeni's node (operated by @eshavkun)
+
 ## Contracts
 
 Code version: [1.3.1](https://github.com/leapdao/leap-contracts/releases/tag/v1.3.1)
