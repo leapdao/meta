@@ -10,7 +10,7 @@ Bridge UI: https://testnet.leapdao.org
 
 ## Node
 
-Code version: [5.4.1](https://github.com/leapdao/leap-node/releases/tag/v5.4.1)
+Code version: [6.0.0](https://github.com/leapdao/leap-node/releases/tag/v6.0.0)
 
 Validator nodes:
   
@@ -19,14 +19,14 @@ Validator nodes:
 
 ## Contracts
 
-Code version: [1.3.1](https://github.com/leapdao/leap-contracts/releases/tag/v1.3.1)
+Code version: [1.4.0](https://github.com/leapdao/leap-contracts/releases/tag/v1.4.0)
 
 
 Name | Proxy | Implementation
 ------------ | ------------- | -----------
-Bridge | 0xC449D4CD1dEc611d8cA5Fd8167Bf46d6e6d345b9[⎆](https://rinkeby.etherscan.io/address/0xC449D4CD1dEc611d8cA5Fd8167Bf46d6e6d345b9) | ~0xDcCc5b16102c8BfE0356Be979Ca93A2D5167849B~ ~0xc5D81fDEe89EeD1B7F7E3881A32D3Afcd1E59d0e~ ~0xB703EaBbf5453107E12212205f4e27eB610463d3~ 0xc612D961FF8aD1bf20370EcF521bd843859D689a[⎆](https://rinkeby.etherscan.io/address/0xc612D961FF8aD1bf20370EcF521bd843859D689a)
-ExitHandler | 0x26a937302cc6A0A7334B210de06136C8C61BA885[⎆](https://rinkeby.etherscan.io/address/0x26a937302cc6A0A7334B210de06136C8C61BA885) | ~0x95D6B9754745b7Fc8A89797DD1e73AA7ee6eE442~ ~0xFd96542514B703e51Bd83911445a2a55A419FEd2~ ~0x7224ee317e29369e1106695d0c2013C639394E87~ 0x3bEED3b62f1Aab3DF5C7BFdf19936608F63eAD1A[⎆](https://rinkeby.etherscan.io/address/0x3bEED3b62f1Aab3DF5C7BFdf19936608F63eAD1A)
-PoaOperator | 0xb3356900d56F39c79Bfdc2b625d15B1b5b9262a9[⎆](https://rinkeby.etherscan.io/address/0xb3356900d56F39c79Bfdc2b625d15B1b5b9262a9) | ~0xAB2c02d49Ccc900301bCA16DB06A3eBF17AA69b0~ ~0xE1BDb2e17351DE79f9Df23c1756FC0d7C46483F6~ 0x5f6E851895C0e2443F54353d972043C229eD1B2c[⎆](https://rinkeby.etherscan.io/address/0x5f6E851895C0e2443F54353d972043C229eD1B2c)
+Bridge | 0xC449D4CD1dEc611d8cA5Fd8167Bf46d6e6d345b9[⎆](https://rinkeby.etherscan.io/address/0xC449D4CD1dEc611d8cA5Fd8167Bf46d6e6d345b9) | ~0xDcCc5b16102c8BfE0356Be979Ca93A2D5167849B~ ~0xc5D81fDEe89EeD1B7F7E3881A32D3Afcd1E59d0e~ ~0xB703EaBbf5453107E12212205f4e27eB610463d3~ ~0xc612D961FF8aD1bf20370EcF521bd843859D689a~ 0xDE06DB8662542AF5b062a09285d5D52Ed3524a37[⎆](https://rinkeby.etherscan.io/address/0xDE06DB8662542AF5b062a09285d5D52Ed3524a37)
+ExitHandler | 0x26a937302cc6A0A7334B210de06136C8C61BA885[⎆](https://rinkeby.etherscan.io/address/0x26a937302cc6A0A7334B210de06136C8C61BA885) | ~0x95D6B9754745b7Fc8A89797DD1e73AA7ee6eE442~ ~0xFd96542514B703e51Bd83911445a2a55A419FEd2~ ~0x7224ee317e29369e1106695d0c2013C639394E87~ ~0x3bEED3b62f1Aab3DF5C7BFdf19936608F63eAD1A~ 0x247F8cB4975668cbA93b1D3EEFDe29B4c185C7D6[⎆](https://rinkeby.etherscan.io/address/0x247F8cB4975668cbA93b1D3EEFDe29B4c185C7D6)
+PoaOperator | 0xb3356900d56F39c79Bfdc2b625d15B1b5b9262a9[⎆](https://rinkeby.etherscan.io/address/0xb3356900d56F39c79Bfdc2b625d15B1b5b9262a9) | ~0xAB2c02d49Ccc900301bCA16DB06A3eBF17AA69b0~ ~0xE1BDb2e17351DE79f9Df23c1756FC0d7C46483F6~ ~0x5f6E851895C0e2443F54353d972043C229eD1B2c~ 0x0e6e2b69b563dd1690ae073b55cb24c5a0a2da9c[⎆](https://rinkeby.etherscan.io/address/0x0e6e2b69b563dd1690ae073b55cb24c5a0a2da9c)
 SwapRegistry | 0x282764334d03181dd836e893b45f7cece18a2151[⎆](https://rinkeby.etherscan.io/address/0x282764334d03181dd836e893b45f7cece18a2151) | 0xe6C59C12E84136A7C0165D912585eAa82f680C7A[⎆](https://rinkeby.etherscan.io/address/0xe6C59C12E84136A7C0165D912585eAa82f680C7A)
 MinGov | 0xdD067b6ed19929Cc79d84ce9Ff25bE31Ae5B3d5d[⎆](https://rinkeby.etherscan.io/address/0xdD067b6ed19929Cc79d84ce9Ff25bE31Ae5B3d5d) |
 LEAP Token | 0xD2D0F8a6ADfF16C2098101087f9548465EC96C98[⎆](https://rinkeby.etherscan.io/address/0xD2D0F8a6ADfF16C2098101087f9548465EC96C98) |
