@@ -10,7 +10,7 @@ Bridge UI: https://testnet.leapdao.org
 
 ## Node
 
-Code version: [5.4.1](https://github.com/leapdao/leap-node/releases/tag/v5.4.1)
+Code version: [6.0.0](https://github.com/leapdao/leap-node/releases/tag/v6.0.0)
 
 Validator nodes:
   
@@ -19,7 +19,7 @@ Validator nodes:
 
 ## Contracts
 
-Code version: [1.3.1](https://github.com/leapdao/leap-contracts/releases/tag/v1.3.1)
+Code version: [1.4.0](https://github.com/leapdao/leap-contracts/releases/tag/v1.4.0)
 
 
 Name | Proxy | Implementation
