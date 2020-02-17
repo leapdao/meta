@@ -38,7 +38,6 @@ truffle(rinkeby)> (await ExitHandlerProxy.at("0x26a937302cc6A0A7334B210de06136C8
 multisig> Call `propose("0x26a937302cc6A0A7334B210de06136C8C61BA885", "0x3659cfe6000000000000000000000000247f8cb4975668cba93b1d3eefde29b4c185c7d6")` for MinGov contract at `0xdD067b6ed19929Cc79d84ce9Ff25bE31Ae5B3d5d` via Rinkeby Multisig `0x03CAa70D57c9E98c0CeAf1EF95f9C9459B89f1Bf`
 ```
 
-
 ## Update Bridge
 
 ```sh
@@ -57,16 +56,26 @@ truffle(rinkeby)> (await BridgeProxy.at("0xC449D4CD1dEc611d8cA5Fd8167Bf46d6e6d34
 multisig> Call `propose("0xC449D4CD1dEc611d8cA5Fd8167Bf46d6e6d345b9", "0x3659cfe6000000000000000000000000de06db8662542af5b062a09285d5d52ed3524a37")` for MinGov contract at `0xdD067b6ed19929Cc79d84ce9Ff25bE31Ae5B3d5d` via Rinkeby Multisig `0x03CAa70D57c9E98c0CeAf1EF95f9C9459B89f1Bf`
 ```
 
-
-### Finalize proposals
+## Finalize proposals
 
 ```sh
 truffle(rinkeby)> (await MinGov.at("0xdD067b6ed19929Cc79d84ce9Ff25bE31Ae5B3d5d")).finalize()
 ```
 
-### Rebuild taken slots bitmap
+## Rebuild taken slots bitmap
 
 ```sh
 truffle(rinkeby)> (await PoaOperator.at("0x0E6E2B69b563dd1690AE073B55cb24C5A0a2Da9C")).rebuildTakenSlots()
 
 ```
+
+## Set epoch length to 2
+
+```sh
+truffle(rinkeby)> (await PoaOperator.at("0xb3356900d56F39c79Bfdc2b625d15B1b5b9262a9")).contract.methods.setEpochLength(2).encodeABI()
+'0x54eea7960000000000000000000000000000000000000000000000000000000000000002'
+```
+
+### Upgrading nodes to leap-node 6.0.0
+
+Had to patch the seed node to resume period submission — it didn't create initial `periodProposal` object by itself, had to hardcode it manually. Hardcode was then removed, once the submission happened.
