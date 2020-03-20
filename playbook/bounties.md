@@ -104,13 +104,7 @@ Gardener is expected to:
 * help the Worker to understand the scope of the Bounty
 * find a Reviewer for the Bounty.
 * ensure the Bounty doesn’t get stalled
-* request the payout for the Bounty once it is done and reviewed. Payout is requested on Slack in a Circle's channel like this:
-  > 🌴💰 Requesting payout for **\<bounty title\>** \
-  > Issue: \<link to the Bounty on Github\> \
-  > Product: \<link to deliverable, e.g. PR or writeup\> \
-  > gardener: \<@gardener\> \<gardener share\> \
-  > worker: \<@worker\> \<worker share\> \
-  > reviewer: \<@reviewer\> \<reviewer share\>
+* request the payout for the Bounty once it is done and reviewed (see "Payout" section below)
 
 ### Worker
 
@@ -156,6 +150,18 @@ Reviewer is expected to:
 If bounty has no progress for 4 days, then anyone can challenge the bounty.
 
 Once the bounty is challenged, the worker has 3 more days to deliver some progress on the bounty (Gardener can make exception and extend period to 5 days 1x, unless Gardener is also working). If Worker fails to make progress within period, the bounty is up for grabs by anyone.
+
+## Payout
+
+Funds allocated for bounty are split between Gardener, Worker and Reviewer in a proportion defined by Gardener (can be negotiated).
+
+It is Gardener's duty to request the payout once the bounty is completed and reviewed. Payout is requested on Slack in a Circle's channel like this:
+  > 🌴💰 Requesting payout for **\<bounty title\>** \
+  > Issue: \<link to the Bounty on Github\> \
+  > Product: \<link to deliverable, e.g. PR or writeup\> \
+  > gardener: \<@gardener\> \<gardener share\> \
+  > worker: \<@worker\> \<worker share\> \
+  > reviewer: \<@reviewer\> \<reviewer share\>
 
 ## Links
 
