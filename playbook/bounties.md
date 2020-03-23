@@ -92,6 +92,10 @@ In the cases where objector and proposer are not able to come to an acceptable s
 
 If the tension was integrated successfully or if there weren’t any public objections, the bounty is considered approved.
 
+## Expiration
+
+All non-taken bounties older than 1 month (time of submission through bounty form), MUST be submitted to bounty form again and undergo a new round of objections (as defined in by this spec) before the work can be started on it.
+
 ## Work on Bounty
 
 ### Gardener
@@ -103,7 +107,7 @@ Gardener is expected to:
 * find a Worker for the Bounty
 * help the Worker to understand the scope of the Bounty
 * find a Reviewer for the Bounty.
-* ensure the Bounty doesn’t get stalled
+* ensure the Bounty doesn’t get stalled (see "Expiration" section)
 * request the payout for the Bounty once it is done and reviewed (see "Payout" section below)
 
 ### Worker
