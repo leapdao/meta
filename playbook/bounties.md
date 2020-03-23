@@ -151,9 +151,13 @@ Reviewer is expected to:
 
 ## Challenging bounties
 
-If bounty has no progress for 4 days, then anyone can challenge the bounty.
+Gardener/Worker/Reviewer roles may be taken over by other people in a certain situations (see below). Each takeover must be stated in written form in corresponding Github issue including new assignee and the reason for takeover.
 
-Once the bounty is challenged, the worker has 3 more days to deliver some progress on the bounty (Gardener can make exception and extend period to 5 days 1x, unless Gardener is also working). If Worker fails to make progress within period, the bounty is up for grabs by anyone.
+### Challenging worker and reviewer
+If worker or reviewer are not publishing any updates for the bounty for 2 working days, then anyone can challenge him and take over the worker role. Updates for worker role can be in any form, most notably: commits to WIP Pull Request, updates on product artifact (hackmd, presentation, diagram etc), review comments, updates in form of github comments or slack conversations.
+
+### Challenging gardener
+If gardener is not helping worker to find a reviewer or doesn't address worker's questions within 2 days, then anyone can challenge him and take over a gardener role on the bounty.
 
 ## Payout
 
