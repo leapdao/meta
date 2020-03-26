@@ -173,4 +173,4 @@ It is Gardener's duty to request the payout once the bounty is completed and rev
 
 ## Links
 
-* [Bounty issue template](https://github.com/leapdao/leap-node/blob/master/.github/ISSUE_TEMPLATE/bounty.md)
+* [Bounty issue template](https://github.com/leapdao/meta/blob/master/.github/ISSUE_TEMPLATE/bounty.md)
