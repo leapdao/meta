@@ -39,7 +39,7 @@ Example:
 
 ### Scope
 
-A list of specific things which should be done to deliver the bounty. These could be seen as requirements to verify/review bounty against.
+A list of specific things which should be done to deliver the bounty. These could be seen as requirements to verify/review the bounty against.
 
 ### Deliverables
 
@@ -55,7 +55,7 @@ The Role who is responsible for the bounty. The Role should belong to Funding Ci
 
 ### Gain for the Role
 
-How the completion of this bounty helps to pursue the Role's purpose
+How the completion of this bounty helps to pursue the Role's purpose.
 
 ### Size
 
@@ -63,11 +63,11 @@ Size of the bounty.
 
 We use t-shirt sizes:
 
-* XS. 200 DAI
-* S. 350 DAI
-* M. 550 DAI
-* L. 900 DAI
-* XL. 1400 DAI
+* size-XS: 200 DAI
+* size-S: 350 DAI
+* size-M: 550 DAI
+* size-L: 900 DAI
+* size-XL: 1400 DAI
 
 ## Who can create a new bounty
 
@@ -88,7 +88,7 @@ If two people work on the bounty together, the payout increases by 1.5x.
 
 Any bounty can be objected by anyone through Slack or GitHub for 2 days after its creation. A valid objection should describe how the bounty is not helping bounty Role to achieve it's purpose or how the bounty is harming the Organization. The objector must ensure that their objection is clearly communicated to the bounty proposer and e.g. not misunderstood as a minor comment on the issue.
 
-In the cases where objector and proposer are not able to come to an acceptable solution, the Circle’s facilitator must be involved to enact Integrative Decision-Making Process as specified in Holacracy constitution ([§1.3.5](https://www.holacracy.org/constitution#art135)) to solve the objection as a tension.
+In the cases where objector and proposer are not able to come to an acceptable solution, the Circle’s facilitator must be involved to enact Integrative Decision-Making Process as specified in Holacracy constitution ([§3.3.5](https://www.holacracy.org/constitution#art335)) to solve the objection as a tension.
 
 If the tension was integrated successfully or if there weren’t any public objections, the bounty is considered approved.
 
@@ -104,11 +104,11 @@ Gardener is the one who creates the bounty and is responsible for it's completio
 
 Gardener is expected to:
 
-* find a Worker for the Bounty
-* help the Worker to understand the scope of the Bounty
+* find a Worker for the Bounty.
+* help the Worker to understand the scope of the Bounty.
 * find a Reviewer for the Bounty.
-* ensure the Bounty doesn’t get stalled (see "Expiration" section)
-* request the payout for the Bounty once it is done and reviewed (see "Payout" section below)
+* ensure the Bounty doesn’t get stalled (see "Expiration" section).
+* request the payout for the Bounty once it is done and reviewed (see "Payout" section below).
 
 ### Worker
 
