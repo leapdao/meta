@@ -15,4 +15,4 @@ Bounty Payout Contract on Mainnet: `0x600932fc01b906967a98d4d13c779c64347755b5`
 
 New experimental feature is available on safe.leapdao.org now: ability to refund execution tx fee from the safe itself, so that tx execution is “free” for the signers.
 
-To use it, you safe should have enough ether at the the tx execution time (at least 0.1). Then you can set "With Refund" checkbox when creating new bounty payout tx.
+To use it, you safe should have enough ether at the the tx execution time (at least 0.1). Then you can set "Refund execution tx fee" checkbox when creating new bounty payout tx.
