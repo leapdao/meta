@@ -149,6 +149,26 @@ Reviewer is expected to:
 * forward all the issues found publicly to the Worker (e.g. as comments on Github)
 * approve the PR once the review is complete successfuly (if applicable)
 
+## Dealing with Scope Creep and/or getting stuck
+
+A task can easily get out of hand in fast-moving projects:
+- The worker finds that a task takes much longer than expected.
+- The reviewer requests so many changes that the worker feels overloaded.
+- The worker or rewiewer might find that a feature doesn't work without certain functionality, which was not sized into the bounty for the task.
+
+To prevent frustration, dispute, and a feeling of "being exploited" the process of **bounty forking** should be used. Forking is the process of separting a part of requirements and deliverables from the task into a new task, with the objective to complete the remaining effort in short time. This has multiple advantages:
+- the sprint is unblocked, and blockers can be discussed separately.
+- workers are protected from selfexploitation.
+- "bounty resizing" is discouraged.
+- small feelings of success (bounty delivery + payout) are injected more regularly.
+
+The worker should use the following estimates when delivering a bounty:
+- start packing up and sending a first WIP pull request when 50% of bounty value consumed on task.
+- asking for help or finding pair-programmer when 67% of bounty value consumed on task.
+- notify the gardener and start forking when 80% of bounty value consumed on task.
+- keep a buffer of at least 20% of bounty value for review efforts.
+
+
 ## Challenging bounties
 
 Gardener/Worker/Reviewer roles may be taken over by other people in a certain situations (see below). Each takeover must be stated in written form in corresponding Github issue including new assignee and the reason for takeover.
