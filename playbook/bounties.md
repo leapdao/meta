@@ -158,7 +158,7 @@ A task can easily get out of hand in fast-moving projects:
 
 To prevent frustration, dispute, and a feeling of "being exploited" the process of **bounty forking** should be used. Forking is the process of separting a part of requirements and deliverables from the task into a new task, with the objective to complete the remaining effort in short time. This has multiple advantages:
 - the sprint is unblocked, and blockers can be discussed separately.
-- workers are protected from selfexploitation.
+- workers are protected from self-exploitation.
 - "bounty resizing" is discouraged.
 - small feelings of success (bounty delivery + payout) are injected more regularly.
 
