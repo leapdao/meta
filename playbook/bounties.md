@@ -57,7 +57,7 @@ The Role who is responsible for the bounty. The Role should belong to Funding Ci
 
 How the completion of this bounty helps to pursue the Role's purpose.
 
-### Size
+### Size and Sizing
 
 Size of the bounty.
 
@@ -68,6 +68,10 @@ We use t-shirt sizes:
 * size-M: 550 DAI
 * size-L: 900 DAI
 * size-XL: 1400 DAI
+
+We don't prescribe a method of sizing by time or complexity, but rather every-one should decide themselves how much they want to put in for a given t-shirt size. Workers should remain aware of **bounty value consumed**, an estimated percentage of how much of the planned effort they have put in already, so they can take emergency steps as described in section [Dealing with Scope Creep and/or getting stuck](#dealing-with-scope-creep-and/or-getting-stuck).
+
+The sizing process should involve as many knowledgeable eye-balls as possible. Use tools like [planning poker](https://en.wikipedia.org/wiki/Planning_poker) or chat-bots that support sizing.
 
 ## Who can create a new bounty
 
@@ -148,6 +152,26 @@ Reviewer is expected to:
   * check social network preview e.g. twitter card (if applicable)
 * forward all the issues found publicly to the Worker (e.g. as comments on Github)
 * approve the PR once the review is complete successfuly (if applicable)
+
+## Dealing with Scope Creep and/or getting stuck
+
+A task can easily get out of hand in fast-moving projects:
+- The worker finds that a task takes much longer than expected.
+- The reviewer requests so many changes that the worker feels overloaded.
+- The worker or rewiewer might find that a feature doesn't work without certain functionality, which was not sized into the bounty for the task.
+
+To prevent frustration, dispute, and a feeling of "being exploited" the process of **bounty forking** should be used. Forking is the process of separting a part of requirements and deliverables from the task into a new task, with the objective to complete the remaining effort in short time. This has multiple advantages:
+- the sprint is unblocked, and blockers can be discussed separately.
+- workers are protected from self-exploitation.
+- "bounty resizing" is discouraged.
+- small feelings of success (bounty delivery + payout) are injected more regularly.
+
+The worker should use the following estimates when delivering a bounty:
+- start packing up and sending a first WIP pull request when 50% of bounty value consumed on task.
+- asking for help or finding pair-programmer when 67% of bounty value consumed on task.
+- notify the gardener and start forking when 80% of bounty value consumed on task.
+- keep a buffer of at least 20% of bounty value for review efforts.
+
 
 ## Challenging bounties
 
