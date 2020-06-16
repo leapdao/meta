@@ -71,7 +71,7 @@ We use t-shirt sizes:
 
 We don't prescribe a method of sizing by time or complexity, but rather every-one should decide themselves how much they want to put in for a given t-shirt size. Workers should remain aware of **bounty value consumed**, an estimated percentage of how much of the planned effort they have put in already, so they can take emergency steps as described in section [Dealing with Scope Creep and/or getting stuck](#dealing-with-scope-creep-and/or-getting-stuck).
 
-Whenever possible the sizing process should take as many knowledgeable eye-balls in as possible. Use tools like [planning poker](https://en.wikipedia.org/wiki/Planning_poker) or chat-bots that support sizing.
+The sizing process should involve as many knowledgeable eye-balls as possible. Use tools like [planning poker](https://en.wikipedia.org/wiki/Planning_poker) or chat-bots that support sizing.
 
 ## Who can create a new bounty
 
