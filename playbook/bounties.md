@@ -8,7 +8,7 @@
   * [Funding Circle](#funding-circle)
   * [Bounty owner/gardener](#bounty-ownergardener)
   * [Gain for the Role](#gain-for-the-role)
-  * [Size](#size)
+  * [Size and Sizing](#size-and-sizing)
 * [Who can create a new bounty](#who-can-create-a-new-bounty)
 * [How to create a new bounty](#how-to-create-a-new-bounty)
 * [Pair bounty](#pair-bounty)
@@ -17,6 +17,7 @@
   * [Gardener](#gardener)
   * [Worker](#worker)
   * [Reviewer](#reviewer)
+* [Dealing with Scope Creep and/or getting stuck](#dealing-with-scope-creep-andor-getting-stuck)
 * [Challenging bounties](#challenging-bounties)
 * [Links](#links)
 
@@ -69,7 +70,7 @@ We use t-shirt sizes:
 * size-L: 900 DAI
 * size-XL: 1400 DAI
 
-We don't prescribe a method of sizing by time or complexity, but rather every-one should decide themselves how much they want to put in for a given t-shirt size. Workers should remain aware of **bounty value consumed**, an estimated percentage of how much of the planned effort they have put in already, so they can take emergency steps as described in section [Dealing with Scope Creep and/or getting stuck](#dealing-with-scope-creep-and/or-getting-stuck).
+We don't prescribe a method of sizing by time or complexity, but rather every-one should decide themselves how much they want to put in for a given t-shirt size. Workers should remain aware of **bounty value consumed**, an estimated percentage of how much of the planned effort they have put in already, so they can take emergency steps as described in section [Dealing with Scope Creep and/or getting stuck](#dealing-with-scope-creep-andor-getting-stuck).
 
 The sizing process should involve as many knowledgeable eye-balls as possible. Use tools like [planning poker](https://en.wikipedia.org/wiki/Planning_poker) or chat-bots that support sizing.
 
