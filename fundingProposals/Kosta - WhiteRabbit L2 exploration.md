@@ -36,7 +36,7 @@ Funds allocation:
 - 1100 DAI - reserve to cover the work of other people should they contribute to the project
 
 Reserve will be returned if unused.
-2000 DAI Kosta's allocation will be returned if unused (simple majority vote of LeapDAO's top-5 reputation holders)
+2400 DAI Kosta's allocation will be returned if unused (simple majority vote of LeapDAO's top-5 reputation holders)
 
 ## Rough roadMap
 
